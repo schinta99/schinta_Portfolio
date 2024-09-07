@@ -1,25 +1,15 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+[visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. You should probably hire me. 
 
 # About me
 Hi! I am Shreya and I love data vizualisations. I am a graduate student studying MISM at Heinz. I have 3 years of experience in Supply Chain and Operations, and I would like to pursue a career in this domain.  I love photography, cycling and hiking. 
 
 # What I hope to learn
-1. Good Data Analysis
-2. Communicate Data to leadership
+1. Good Data Visualization
+2. Effective Data Communication with leadership
 3. Understand how to make good charts based on any kind of data.
-# Portfolio
-
-# Examples
 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
