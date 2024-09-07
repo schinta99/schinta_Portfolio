@@ -21,5 +21,7 @@ _Summarize in a paragraph or two about the different methods of visualization, a
 
 _It's a good idea to go back and review your work.  Could someone follow your process and understand what you did?  Do you need to further connect any of the sections with a bit of text?  Is it something you'd be happy to have as an example of your work from the class?_
 
+You can look at this file [here](NorthAmericaTrend.html).
+
 
 
