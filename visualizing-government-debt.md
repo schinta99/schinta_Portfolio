@@ -7,7 +7,7 @@ _As before, this template provides some of the structure you should have for you
 
 ## Part one: Working with web-based visualization tools and data
 
-[here](viz.html)
+You can view the government-debt visuakization [here](viz.html).
 
 ## Working with Tableau
 
