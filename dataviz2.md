@@ -1,3 +1,5 @@
 ## Government Debt Bar Chart
 <iframe src="https://data-viewer.oecd.org?chartId=7f9e13a3-6915-4486-94c4-ba22cce24a3f" style="border: none;" allowfullscreen="true"></iframe>
 <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=7f9e13a3-6915-4486-94c4-ba22cce24a3f" target="_blank">Dataflow</a>
+
+[View the interactive chart here](https://schinta99.github.io/schinta_Portfolio/dataViz.html)
