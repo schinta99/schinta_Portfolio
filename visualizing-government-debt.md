@@ -7,7 +7,7 @@
 ## Part one: Working with web-based visualization tools and data
 
 ### Government Debt Bar Chart
-
+![funny dog picture](export-2024-09-09T04_05_48.684Z.png)
 
 
 
