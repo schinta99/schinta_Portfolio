@@ -13,7 +13,7 @@
 
 ## Part two: Working with Tableau
 
-_A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
+
 
 <div class='tableauPlaceholder' id='viz1725875674202' style='position: relative'><noscript><a href='#'><img alt='Global Government Debt-to-GDP Ratios: Trends and Comparisons by Country ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalGovernmentDebt-to-GDPRatiosTrendsandComparisonsbyCountry&#47;DataVisualizationofGovernmentDebtRatio&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GlobalGovernmentDebt-to-GDPRatiosTrendsandComparisonsbyCountry&#47;DataVisualizationofGovernmentDebtRatio' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalGovernmentDebt-to-GDPRatiosTrendsandComparisonsbyCountry&#47;DataVisualizationofGovernmentDebtRatio&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>                    
@@ -25,6 +25,27 @@ _A reminder that to get the Tableau visualization to render correctly on Github,
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+Steps in Tableau:
+Dataset Loading: I imported the OECD dataset and set the Time column to Date.
+
+Creating the Highlight Table: I placed Time on Columns, Value on Rows, and Location on the Marks card to differentiate by country.
+
+Sorting: I sorted countries by descending average debt-to-GDP ratio to prioritize those with higher debt.
+
+Color Customization: I used the Orange-Blue Diverging palette, setting 100 as the center. This choice effectively highlighted the divide between countries with debt above or below 100% of GDP.
+
+Filtering: I removed countries with missing data (e.g., Colombia) to maintain clarity.
+
+Final Touches: I added a clear title and ensured hover-over interactions for more detailed insights.
+
+After sharing it to Tableau Public, I copied the embedded code from Tableau Public and pasted it in this Markdown file. I ensured the formatting was consistent for correct rendering. 
+
+Observations:
+Key Insights: Japan and Greece showed consistently high debt-to-GDP ratios, while countries like Luxembourg had consistently low ratios.
+
+Diverging Colors: The Orange-Blue palette made it easy to distinguish between countries with higher or lower debt. Diverging colors are useful for highlighting critical thresholds like 100%.
+
+Heat Map: It is a comprehenive chart visualization, coupled with diverging colours makes it easier for the audience to view and gain insights from the visualization. 
 
 
 ## Part three: create your own visualization
