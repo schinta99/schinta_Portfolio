@@ -3,15 +3,12 @@
 # Visualizing Government Debt
 
 
-_As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
 
 ## Part one: Working with web-based visualization tools and data
 
 ### Government Debt Bar Chart
 
-<iframe src="https://data-viewer.oecd.org?chartId=03b71ac8-30fd-49b1-975b-8c482e3c2bb2" style="border: none"; allowfullscreen="true">;
-    <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=03b71ac8-30fd-49b1-975b-8c482e3c2bb2" target="_blank">Dataflow</a>
-  </iframe>;
+
 
 
 ## Part two: Working with Tableau
