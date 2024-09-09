@@ -13,15 +13,7 @@ Hi! I am Shreya and I love data vizualisations. I am a graduate student studying
 
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
-
-##Maybe remove this
-
-<iframe src="https://data-viewer.oecd.org?chartId=03b71ac8-30fd-49b1-975b-8c482e3c2bb2" style="border: none"; allowfullscreen="true">;
-    <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=03b71ac8-30fd-49b1-975b-8c482e3c2bb2" target="_blank">Dataflow</a>
-  </iframe>;
  
-1) Focuses on [location specific](viz.html) government debt-to-GDP ratio
-2) Comparing government debt-to-GDP ratio across [North America](NorthAmericaTrend.html)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
