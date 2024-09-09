@@ -23,13 +23,7 @@ Hi! I am Shreya and I love data vizualisations. I am a graduate student studying
     View Interactive Dataflow
 </a>
 
-
-
-
-
-
-
-This assignment showcases 2 different visualizations on general government debt-to-GDP ratio. 
+ 
 1) Focuses on [location specific](viz.html) government debt-to-GDP ratio
 2) Comparing government debt-to-GDP ratio across [North America](NorthAmericaTrend.html)
 
