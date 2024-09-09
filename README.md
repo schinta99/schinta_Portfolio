@@ -8,7 +8,7 @@ Hi! I am Shreya and I love data vizualisations. I am a graduate student studying
 
 # What I hope to learn
 1. Good Data Visualization
-2. Effective Data Communication with leadership
+2. Effective Communication of data with leadership
 3. Understand how to make good charts based on any kind of data.
 
 
