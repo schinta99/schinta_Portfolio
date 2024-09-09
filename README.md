@@ -12,7 +12,7 @@ Hi! I am Shreya and I love data vizualisations. I am a graduate student studying
 3. Understand how to make good charts based on any kind of data.
 
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
 
 ##Maybe remove this
 
