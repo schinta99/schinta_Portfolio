@@ -26,7 +26,7 @@ _A reminder that to get the Tableau visualization to render correctly on Github,
 </script>
 
 
-Focuses on location specific government debt-to-GDP ratio.You can view the government-debt visuakization [here](viz.html).
+
 
 ## Part three: create your own visualization
 
@@ -47,7 +47,7 @@ _It's a good idea to go back and review your work.  Could someone follow your pr
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-You can look at this file [here](NorthAmericaTrend.html).
+
 
 
 
