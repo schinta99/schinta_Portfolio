@@ -17,7 +17,6 @@ Hi! I am Shreya and I love data vizualisations. I am a graduate student studying
 <iframe src="https://data-viewer.oecd.org?chartId=7f9e13a3-6915-4486-94c4-ba22cce24a3f" style="border: none"; allowfullscreen="true">;
     <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=7f9e13a3-6915-4486-94c4-ba22cce24a3f" target="_blank">Dataflow</a>
   </iframe>;
-
  
 1) Focuses on [location specific](viz.html) government debt-to-GDP ratio
 2) Comparing government debt-to-GDP ratio across [North America](NorthAmericaTrend.html)
