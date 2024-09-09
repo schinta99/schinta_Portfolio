@@ -35,18 +35,38 @@ Countries with lower ratios have shorter bars, indicating lower debt relative to
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 Steps in Tableau:
+
 Dataset Loading: I imported the OECD dataset and set the Time column to Date.
+
 Creating the Highlight Table: I placed Time on Columns, Value on Rows, and Location on the Marks card to differentiate by country.
+
 Sorting: I sorted countries by descending average debt-to-GDP ratio to prioritize those with higher debt.
+
 Color Customization: I used the Orange-Blue Diverging palette, setting 100 as the center. This choice effectively highlighted the divide between countries with debt above or below 100% of GDP.
+
 Filtering: I removed countries with missing data (e.g., Colombia) to maintain clarity.
+
 Final Touches: I added a clear title and ensured hover-over interactions for more detailed insights.
+
 After sharing it to Tableau Public, I copied the embedded code from Tableau Public and pasted it in this Markdown file. I ensured the formatting was consistent for correct rendering. 
 
 Observations:
 Key Insights: Japan and Greece showed consistently high debt-to-GDP ratios, while countries like Luxembourg had consistently low ratios.
+
 Diverging Colors: The Orange-Blue palette made it easy to distinguish between countries with higher or lower debt. 
+
 Heat Map: It is a comprehenive chart visualization, coupled with diverging colours makes it easier for the audience to view and gain specific insights from the visualization. 
 
 
