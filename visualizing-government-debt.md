@@ -7,6 +7,8 @@ _As before, this template provides some of the structure you should have for you
 
 ## Part one: Working with web-based visualization tools and data
 
+## Government Debt Bar Chart
+
 <iframe src="https://data-viewer.oecd.org?chartId=03b71ac8-30fd-49b1-975b-8c482e3c2bb2" style="border: none"; allowfullscreen="true">;
     <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=03b71ac8-30fd-49b1-975b-8c482e3c2bb2" target="_blank">Dataflow</a>
   </iframe>;
@@ -15,6 +17,8 @@ _As before, this template provides some of the structure you should have for you
 ## Working with Tableau
 
 _A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
+
+
 Focuses on location specific government debt-to-GDP ratio.You can view the government-debt visuakization [here](viz.html).
 
 ## Part three: create your own visualization
