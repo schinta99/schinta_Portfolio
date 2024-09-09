@@ -7,11 +7,12 @@ _As before, this template provides some of the structure you should have for you
 
 ## Part one: Working with web-based visualization tools and data
 
-You can view the government-debt visuakization [here](viz.html).
+
 
 ## Working with Tableau
 
 _A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
+Focuses on location specific government debt-to-GDP ratio.You can view the government-debt visuakization [here](viz.html).
 
 ## Part three: create your own visualization
 
