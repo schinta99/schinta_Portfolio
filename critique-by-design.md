@@ -134,5 +134,26 @@ To address these concerns, I plan to simplify the visualization by focusing on a
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+Description of the Final Visualization
+In an attempt to redesign, I incorporated the suggestion of creating a heat map instead of a bar chart to represent the population density and median age. I used a spatial map of the United States with hexagonal blocks, inspired by a design I saw in a data visualization redesign video. This approach offered a more standardized and cleaner look. To add visual appeal, I opted for a blue color palette instead of grey, as blue is neutral but also bright enough to avoid appearing dull or monotonous.
 
+Each hexagonal block contains state abbreviations to fit within the limited space, and users can hover over each block to view further details, such as age, population density, and state name. I focused on a single time frame, as suggested by my interviewees, to reduce confusion and emphasize the latest available data.
+
+Summary of the Process
+The process began with selecting the original scatter plot for critique. After evaluating its shortcomings and gathering user feedback, I initially considered a bar chart as it could depict trend better than scatter plot but eventually shifted to a heat map based on suggestions to provide a standard representation of state data, without any scrolling. 
+
+User Feedback and Refinements
+Interview feedback indicated the need for a simpler, more focused visualization. As a result, I adopted a single time frame to reduce confusion and focused on the latest data. The decision to use hexagonal blocks and a blue color palette made the chart more standard and clean addressing concerns about excessive scrolling and clutter in the previous design.
+
+Final Thoughts
+The redesigned chart is much cleaner and easier to interpret, with interactive hover features that provide additional details. The divergent color palette allows users to quickly identify states with the highest population density. Overall, examining the chart revealed that there isn't a significant correlation between age and population density, as the variation in average age is generally just ±1 year. A more substantial difference, like ±5 years, would indicate a clearer trend.
+
+<div class='tableauPlaceholder' id='viz1726692864897' style='position: relative'><noscript><a href='#'><img alt='State-wise Comparison of Median Age At First Marriage and Population Density Per Sq Mile (2015-2019) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Up&#47;UpdatedDataVizAssignment3&#47;State-wiseComparisonofMedianAgeAtFirstMarriageandPopulationDensity&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='UpdatedDataVizAssignment3&#47;State-wiseComparisonofMedianAgeAtFirstMarriageandPopulationDensity' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Up&#47;UpdatedDataVizAssignment3&#47;State-wiseComparisonofMedianAgeAtFirstMarriageandPopulationDensity&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1726692864897');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
