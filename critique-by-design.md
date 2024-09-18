@@ -158,5 +158,8 @@ Interview feedback indicated the need for a simpler, more focused visualization.
 </script>
 
 
+
+
+
 Final Thoughts
 The redesigned chart is much cleaner and easier to interpret, with interactive hover features that provide additional details. The divergent color palette allows users to quickly identify states with the highest population density. Overall, examining the chart revealed that there isn't a significant correlation between age and population density, as the variation in average age is generally just ±1 year. A more substantial difference, like ±5 years, would indicate a clearer trend.
