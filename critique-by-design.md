@@ -8,6 +8,12 @@ I created a standard critique mechanism based on Good Charts and Stephen Few's D
 
 I chose the data visualization that describes the Average Age of Women at First Marriage by State vs State Population Density
 
+[Scatter Plot](Scatter Plot.png)
+
+Source - https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/
+
+I had seen couple of other articles on MokeoverMonday, but this stood out because it was comparing age of women at first marriage. I had a little bias as I was curious to know what is the trend about marriages in Unites States. 
+
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 ## Step two: the critique
