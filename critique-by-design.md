@@ -6,22 +6,19 @@ I created a standard critique mechanism based on Good Charts and Stephen Few's D
 
 ## Step one: the visualization
 
-I chose the data visualization that describes the Average Age of Women at First Marriage by State vs State Population Density
+I chose a  visualization having title "Average Age of Women at First Marriage by State vs. State Population Density [OC]". This scatter plot compares the average age of women at first marriage across different states in the United States with each state's population density.
 
-Title - Average Age of Women at First Marriage by State vs. State Population Density [OC]
+
 
 ![Alt Text](Scatter-Plot.png)
 
 
 Source - https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/
 
-I had seen couple of other articles on MokeoverMonday, but this stood out because it was comparing age of women at first marriage. I had a little bias as I was curious to know what is the trend about marriages in Unites States. 
-The visualization aims to describe the trend between average age of first marriage in women vs the population density per squeare mile.
-The first thing I noticed was that places with highest population density has a higher median age, indicating possibly later marriages. 
-The x-axis represents average age of women and the y-axis represents population density per square mile.
-A scatter plot has been used to display the correlation between density and age, 
+The scatter plot aims to depict a relationship between the average age of women at first marriage and state population density. The x-axis represents the average age, while the y-axis shows the population density per square mile. The plot suggests a potential trend where states with higher population densities tend to have a higher median age of first marriage, indicating that women in densely populated areas might marry later.
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+In the upcoming steps, I will critique this design, propose new ideas and redesigns to improve its effectiveness in conveying the data.
+
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
