@@ -50,6 +50,10 @@ The scatter plot effectively hints at a potential trend between population densi
 
 ## Step three: Sketch a solution
 
+Based on my critique, I decided to go with a horizontal bar chart, with states on the Y axis and population density on x-axis. Each state had 2 bars to represent time frame. I enabled a hover-over interactions, through which you can see the average age on each bar. I sorted the graph based on highest population density and median age to the lowest. 
+
+I decided this because I thought that the audience would like to only see the highest or the lowest values, also a bar chart represents trend in a much better way then a scatter plot. i thought the visualization was comprehensive. 
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
