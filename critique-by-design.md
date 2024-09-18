@@ -78,34 +78,59 @@ This redesign aims to present the data in a better way, allowing for easier tren
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+These are my interview questions :
 
-Questions to ask (modify these for your own interviews): 
+1) Can you tell me what you think about the chart?
 
-- Can you tell me what you think this is?
+2) Is there anything you find like?
 
-- Can you describe to me what this is telling you?
+3) Is there anything you don't like ?
 
-- Is there anything you find surprising or confusing?
+4) Who do you think is the intended audience for this?
 
-- Who do you think is the intended audience for this?
+5) Is there anything you would change or do differently?
+   
 
-- Is there anything you would change or do differently?
+Interview 1
 
-Results: 
+What do you think about the chart?
+Ans: The interviewee found the chart interesting and easy to understand. She thought the heading was meaningful and could clearly see the trend, which she believed would be beneficial.
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+Is there anything you like?
+Ans: She liked the color combination and appreciated that everything was comprehensively covered.
+
+Is there anything you don't like?
+Ans: She suggested removing the decimal points for age and eliminating the grid lines.
+
+Who do you think is the intended audience?
+Ans: She believed it could be aimed at policymakers or researchers.
+
+What would you change or do differently?
+Ans: Remove the decimal points and grid lines.
+
+Interview 2
+
+What do you think about the chart?
+Ans: The interviewee assumed there must be a confounding variable causing the steep increase in population density and felt that population density and median age might not be significantly correlated.
+
+Is there anything you like?
+Ans: Liked the concept of showing trends but felt it was cluttered with too much information.
+
+Is there anything you don't like?
+Ans: Disliked the bar graph format due to excessive scrolling and the use of two time frames. She noted that the time frames (2006-2010 and 2015-2019) were unnecessary, as they lacked correlation. Also, did not like that some bars were too long despite minimal differences in average age.
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+Who do you think is the intended audience?
+Ans: Thought it could be for students and researchers.
 
-Synthesis: 
+What would you change or do differently?
+Ans: Suggested using a standardized layout like a heat map or area map, a lighter color palette (e.g., grey), region-wise distribution, and focusing on a single time frame.
+Using a logarithmic scale to represent the population density was also suggested. 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Synthesis
+The feedback revealed that while some found the chart easy to understand, others questioned its clarity and the relevance of using two time frames. One person suggested the presence of a confounding variable, casting doubt on the correlation between population density and median age. The bar graph format had excessive scrolling and unclear representation as some bars were too long despite minimal differences in age, making the scale seem unnecessary.
+To address these concerns, I plan to simplify the visualization by focusing on a single time frame and refining the layout using a heat map to avoid the bar graph confusion (excessive scrolling and scale issues) and also ensure all states are represented. This new design will use a more effective single divergent color palette, where darker shades represent higher population densities and lighter shades indicate lower ones.
+
 
 ## Step five: build the solution
 
