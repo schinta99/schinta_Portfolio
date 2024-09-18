@@ -94,40 +94,51 @@ These are my interview questions :
 Interview 1
 
 What do you think about the chart?
+
 Ans: The interviewee found the chart interesting and easy to understand. She thought the heading was meaningful and could clearly see the trend, which she believed would be beneficial.
 
 Is there anything you like?
+
 Ans: She liked the color combination and appreciated that everything was comprehensively covered.
 
 Is there anything you don't like?
+
 Ans: She suggested removing the decimal points for age and eliminating the grid lines.
 
 Who do you think is the intended audience?
+
 Ans: She believed it could be aimed at policymakers or researchers.
 
 What would you change or do differently?
+
 Ans: Remove the decimal points and grid lines.
 
 Interview 2
 
 What do you think about the chart?
+
 Ans: The interviewee assumed there must be a confounding variable causing the steep increase in population density and felt that population density and median age might not be significantly correlated.
 
 Is there anything you like?
+
 Ans: Liked the concept of showing trends but felt it was cluttered with too much information.
 
 Is there anything you don't like?
+
 Ans: Disliked the bar graph format due to excessive scrolling and the use of two time frames. She noted that the time frames (2006-2010 and 2015-2019) were unnecessary, as they lacked correlation. Also, did not like that some bars were too long despite minimal differences in average age.
 
 
 Who do you think is the intended audience?
+
 Ans: Thought it could be for students and researchers.
 
 What would you change or do differently?
+
 Ans: Suggested using a standardized layout like a heat map or area map, a lighter color palette (e.g., grey), region-wise distribution, and focusing on a single time frame.
 Using a logarithmic scale to represent the population density was also suggested. 
 
 Synthesis
+
 The feedback revealed that while some found the chart easy to understand, others questioned its clarity and the relevance of using two time frames. One person suggested the presence of a confounding variable, casting doubt on the correlation between population density and median age. The bar graph format had excessive scrolling and unclear representation as some bars were too long despite minimal differences in age, making the scale seem unnecessary.
 To address these concerns, I plan to simplify the visualization by focusing on a single time frame and refining the layout using a heat map to avoid the bar graph confusion (excessive scrolling and scale issues) and also ensure all states are represented. This new design will use a more effective single divergent color palette, where darker shades represent higher population densities and lighter shades indicate lower ones.
 
@@ -135,14 +146,17 @@ To address these concerns, I plan to simplify the visualization by focusing on a
 ## Step five: build the solution
 
 Description of the Final Visualization
+
 In an attempt to redesign, I incorporated the suggestion of creating a heat map instead of a bar chart to represent the population density and median age. I used a spatial map of the United States with hexagonal blocks, inspired by a design I saw in a data visualization redesign video. This approach offered a more standardized and cleaner look. To add visual appeal, I opted for a blue color palette instead of grey, as blue is neutral but also bright enough to avoid appearing dull or monotonous.
 
 Each hexagonal block contains state abbreviations to fit within the limited space, and users can hover over each block to view further details, such as age, population density, and state name. I focused on a single time frame, as suggested by my interviewees, to reduce confusion and emphasize the latest available data.
 
 Summary of the Process
+
 The process began with selecting the original scatter plot for critique. After evaluating its shortcomings and gathering user feedback, I initially considered a bar chart as it could depict trend better than scatter plot but eventually shifted to a heat map based on suggestions to provide a standard representation of state data, without any scrolling. 
 
 User Feedback and Refinements
+
 Interview feedback indicated the need for a simpler, more focused visualization. As a result, I adopted a single time frame to reduce confusion and focused on the latest data. The decision to use hexagonal blocks and a blue color palette made the chart more standard and clean addressing concerns about excessive scrolling and clutter in the previous design.
 
 
