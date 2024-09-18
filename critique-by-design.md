@@ -25,7 +25,9 @@ In the upcoming steps, I will critique this design, propose new ideas and redesi
 
 Based on Stephan Few's Data Visualization Effectiveness Profile and Good charts, I have evaluated the visualization as follows - 
 
-1) Visual Effectiveness Summary - 
+1) Visual Effectiveness Summary -
+
+
 Usefulness (Rating: 4/10)
 The chart provides some insight into the relationship between population density and the average age of women at first marriage across states. However, its usefulness is limited because it lacks clear labels or identifiers for individual states making it difficult to decipher valuable context and make actionable insights.
 
