@@ -8,7 +8,8 @@ I created a standard critique mechanism based on Good Charts and Stephen Few's D
 
 I chose the data visualization that describes the Average Age of Women at First Marriage by State vs State Population Density
 
-[Scatter Plot](Scatter Plot.png)
+![Scatter Plot](Scatter Plot.png)
+
 
 Source - https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/
 
