@@ -28,16 +28,22 @@ Based on Stephan Few's Data Visualization Effectiveness Profile and Good charts,
 1) Visual Effectiveness Summary - 
 Usefulness (Rating: 4/10)
 The chart provides some insight into the relationship between population density and the average age of women at first marriage across states. However, its usefulness is limited because it lacks clear labels or identifiers for individual states making it difficult to decipher valuable context and make actionable insights.
+
 Completeness (Rating: 3/10)
 The scatter plot does not include key information like state labels or a clear description of what the clusters represent. Additionally, the title suggests a comparison across states, but the states themselves are not identifiable on the plot. Including data labels, a legend, and trend lines could enhance the completeness of the visualization.
+
 Perceptibility (Rating: 3/10)
 The scatter plot is difficult to interpret. The clustering of points near the lower end of the population density axis makes it hard to see individual data points. The exact values of age and population density are also unclear as we need to tilt our head to view the data, which complicates interpretation. Changing the Y-axis to a logarithmic scale and including state labels could improve clarity.
+
 Truthfulness (Rating: 7/10)
 Given the specifcity of the data points, it looks like the scatter plot is accurate. It does, however, imply a correlation between population density and marriage age, which might lead to assumptions about causation. While it truthfully displays the data, the lack of explanatory context can lead to misinterpretation.
+
 Intuitiveness (Rating: 3/10)
 The scatter plot format is familiar, but the lack of labels for states and the difficulty in reading exact values makes it less intuitive. Annotations such as hover-over details, would help make the plot easier to understand.
+
 Aesthetics (Rating: 5/10)
 The plot is visually clean, but it is quite plain and does not use color effectively to enhance understanding. Using color gradients to represent different regions or clustering could make it more visually appealing and informative.
+
 Engagement (Rating: 4/10)
 The scatter plot does show a potential trend between age and population density, which could spark interest. However, the lack of labels and context reduces its overall engagement. Including annotations or a trend line would draw the viewer more into the data and encourage further exploration.
 
