@@ -50,9 +50,21 @@ The scatter plot effectively hints at a potential trend between population densi
 
 ## Step three: Sketch a solution
 
-Based on my critique, I decided to go with a horizontal bar chart, with states on the Y axis and population density on x-axis. Each state had 2 bars to represent time frame. I enabled a hover-over interactions, through which you can see the average age on each bar. I sorted the graph based on highest population density and median age to the lowest. 
+Based on my critique, I opted for a horizontal bar chart with states on the y-axis and population density on the x-axis. Each state is represented by two bars for different time frames, with hover-over interactions enabled to display the average age on each bar. The chart is sorted from highest to lowest in terms of population density and median age.
 
-I decided this because I thought that the audience would like to only see the highest or the lowest values, also a bar chart represents trend in a much better way then a scatter plot. i thought the visualization was comprehensive. 
+I chose this approach because I believe the audience would be most interested in quickly identifying the states with the highest and lowest values. Additionally, a bar chart effectively visualize the trends than a scatter plot. I ensured all the parameters like state labels, time-frame, median age and population density per square mile was covered in one chart. I also modified the chart title as - "State-wise Comparison of Median Age At First Marriage and Population Density"
+
+
+<div class='tableauPlaceholder' id='viz1726674317614' style='position: relative'><noscript><a href='#'><img alt='State-wise Comparison of Median Age at First Marriage and Population Density ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;State-wiseComparisonofMedianAgeAtFirstMarriageandPopulationDensity&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='State-wiseComparisonofMedianAgeAtFirstMarriageandPopulationDensity&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;State-wiseComparisonofMedianAgeAtFirstMarriageandPopulationDensity&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1726674317614');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
 
 ## Step four: Test the solution
 
