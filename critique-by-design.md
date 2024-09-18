@@ -145,8 +145,7 @@ The process began with selecting the original scatter plot for critique. After e
 User Feedback and Refinements
 Interview feedback indicated the need for a simpler, more focused visualization. As a result, I adopted a single time frame to reduce confusion and focused on the latest data. The decision to use hexagonal blocks and a blue color palette made the chart more standard and clean addressing concerns about excessive scrolling and clutter in the previous design.
 
-Final Thoughts
-The redesigned chart is much cleaner and easier to interpret, with interactive hover features that provide additional details. The divergent color palette allows users to quickly identify states with the highest population density. Overall, examining the chart revealed that there isn't a significant correlation between age and population density, as the variation in average age is generally just ±1 year. A more substantial difference, like ±5 years, would indicate a clearer trend.
+
 
 <div class='tableauPlaceholder' id='viz1726692864897' style='position: relative'><noscript><a href='#'><img alt='State-wise Comparison of Median Age At First Marriage and Population Density Per Sq Mile (2015-2019) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Up&#47;UpdatedDataVizAssignment3&#47;State-wiseComparisonofMedianAgeAtFirstMarriageandPopulationDensity&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='UpdatedDataVizAssignment3&#47;State-wiseComparisonofMedianAgeAtFirstMarriageandPopulationDensity' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Up&#47;UpdatedDataVizAssignment3&#47;State-wiseComparisonofMedianAgeAtFirstMarriageandPopulationDensity&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -157,3 +156,7 @@ The redesigned chart is much cleaner and easier to interpret, with interactive h
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+
+Final Thoughts
+The redesigned chart is much cleaner and easier to interpret, with interactive hover features that provide additional details. The divergent color palette allows users to quickly identify states with the highest population density. Overall, examining the chart revealed that there isn't a significant correlation between age and population density, as the variation in average age is generally just ±1 year. A more substantial difference, like ±5 years, would indicate a clearer trend.
