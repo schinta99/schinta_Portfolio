@@ -27,6 +27,9 @@ Conclusion: Summarizing the long-term benefits and future of modern medicine.
 
 Text here...
 
+
+The visualizations aim to show impact of modern medicine on human health by comparing key metrics like death rates and life expectancy over time, as well as contrasting the medical journey of individuals from the 17th century to the present day. A line chart will show the reduction in death rates over the years due to advancements in treatments and vaccines, while another visualization will link major medical breakthroughs to increases in life expectancy. A journey map will highlight the contrast between how illnesses were diagnosed and treated in the past compared to the comprehensive and effective medical care available today and showcasing survival outcomes.
+
 # The data
 
 The Data
