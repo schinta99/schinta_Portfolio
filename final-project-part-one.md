@@ -50,15 +50,14 @@ Source: NCBI - Vaccine Development
 Together, these datasets will help demonstrate how advancements in modern medicine have not only extended life expectancy but also contributed to the overall improvement of public health by preventing and eradicating life-threatening diseases.
 
 
-
 | Name                                | URL                                                    | Description                                                              |
 |-------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------------|
-|  World Bank Life Expectancy Data    | https://data.worldbank.org/indicator/SP.DYN.LE00.IN    | Tracks global life expectancy from 1960 to the present, showing trends in how medical advancements have increased life expectancy
-                                                                                                         
-| Swiss Re - Medical Advances          | https://www.swissre.com/institute/research/sonar/sonar2023/medical-advances-life-expectancy.html     |iscusses the relationship between medical advances and improvements in life expectancy, providing a timeline of key breakthroughs.             |
-|      |     |             |
+| World Bank Life Expectancy Data      | https://data.worldbank.org/indicator/SP.DYN.LE00.IN     | Tracks global life expectancy from 1960 to the present, showing trends in how medical advancements have increased life expectancy. |
+| Swiss Re - Medical Advances          | https://www.swissre.com/institute/research/sonar/sonar2023/medical-advances-life-expectancy.html | Discusses the relationship between medical advances and improvements in life expectancy, providing a timeline of key breakthroughs. |
+| NCBI - Vaccine Development           | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386248/table/TAB1/  | Provides a timeline of key vaccines (e.g., smallpox, polio) and their role in improving public health outcomes. |
+
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+
+I plan to complete my final project by using a combination of data visualization tools and storytelling techniques to highlight the advancements in modern medicine and their impact on global health outcomes. I will use Tableau to create interactive visualizations, such as timelines and comparative charts, showing life expectancy trends and medical breakthroughs. These visualizations will be embedded in a GitHub Pages site(here) , where I will also document the key findings and analysis in markdown. 
