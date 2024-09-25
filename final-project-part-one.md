@@ -22,6 +22,8 @@ Conclusion: Summarizing the long-term benefits and future of modern medicine.
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
 >
  ![Image 1](Image1.jpg)
+ ![Image 2](Image2.jpg)
+ ![Image 3](Image3.jpg)
 
 Text here...
 
