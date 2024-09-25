@@ -1,7 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
 I want to show the effects of modern medicine and its advantages. How life expectancy has increased with the use of medicine and how advancements in this field are critical to improve quality of life. While natural remedies are often useful for smaller diseases, for age-related issues and other serious conditions, medicines and vaccines are key.
@@ -9,7 +8,7 @@ I want to show the effects of modern medicine and its advantages. How life expec
 Project Structure
 The project will follow a clear story arc, illustrating the progression of modern medicine's role in increasing life expectancy and enhancing the quality of life. The key sections include:
 
-Introduction: Defining modern medicine and its significance.
+Introduction: Defining modern medicine and its significance with examples.
 
 Medical Breakthroughs: Highlighting major advancements (e.g., vaccines, antibiotics).
 
@@ -34,31 +33,28 @@ Life Expectancy Data (World Bank):
 This dataset tracks life expectancy globally from 1960 to the present. The data will be used to highlight trends in how life expectancy has increased over time and how key medical breakthroughs correlate with these improvements. I will use this data to show the significant shifts in life expectancy as modern medicine advanced, specifically in regions where vaccines and other medical treatments became more accessible.
 
 Source: World Bank Life Expectancy
+
 Medical Advances and Life Expectancy (Swiss Re SONAR):
 
 This source discusses the direct relationship between medical advances and life expectancy improvements. It provides a timeline of advancements, which I will use to support my analysis of specific medical breakthroughs (e.g., vaccines, antibiotics) and their influence on health outcomes.
 
 Source: Swiss Re - Medical Advances
+
 Vaccine Development Timeline (NCBI):
 
 This table outlines the development timeline of key vaccines, including smallpox, polio, and measles. It will help establish a historical context for the role vaccines have played in public health improvements, which will be visually compared to the life expectancy data.
 
 Source: NCBI - Vaccine Development
-Polio Eradication Data (PubMed):
 
-This article provides detailed data on how polio was eradicated in various regions, including the introduction of the polio vaccine and its subsequent impact on health outcomes. I will use this data to show the correlation between vaccination efforts and the eradication of infectious diseases, underscoring the positive impact of modern medicine on public health.
-
-Source: PubMed - Polio Eradication
 
 Together, these datasets will help demonstrate how advancements in modern medicine have not only extended life expectancy but also contributed to the overall improvement of public health by preventing and eradicating life-threatening diseases.
 
 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
+| Name                                | URL                                                    | Description                                                              |
+|-------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------------|
+|  World Bank Life Expectancy Data    | https://data.worldbank.org/indicator/SP.DYN.LE00.IN    | Tracks global life expectancy from 1960 to the present, 
+                                                                                               | showing trends in how medical advancements have increased life expectancy.            
 |      |     |             |
 |      |     |             |
 
