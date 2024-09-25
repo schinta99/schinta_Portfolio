@@ -49,12 +49,14 @@ Source: NCBI - Vaccine Development
 
 Together, these datasets will help demonstrate how advancements in modern medicine have not only extended life expectancy but also contributed to the overall improvement of public health by preventing and eradicating life-threatening diseases.
 
-
-| Name                                | URL                                                    | Description                                                              |
-|-------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------------|
-| World Bank Life Expectancy Data      | https://data.worldbank.org/indicator/SP.DYN.LE00.IN     | Tracks global life expectancy from 1960 to the present, showing trends in how medical advancements have increased life expectancy. |
+| Name                                | URL                                                                                  | Description                                                              |
+|-------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| World Bank Life Expectancy Data      | https://data.worldbank.org/indicator/SP.DYN.LE00.IN                                   | Tracks global life expectancy from 1960 to the present, showing trends in how medical advancements have increased life expectancy. |
 | Swiss Re - Medical Advances          | https://www.swissre.com/institute/research/sonar/sonar2023/medical-advances-life-expectancy.html | Discusses the relationship between medical advances and improvements in life expectancy, providing a timeline of key breakthroughs. |
-| NCBI - Vaccine Development           | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386248/table/TAB1/  | Provides a timeline of key vaccines (e.g., smallpox, polio) and their role in improving public health outcomes. |
+| NCBI - Vaccine Development           | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386248/table/TAB1/                      | Provides a timeline of key vaccines (e.g., smallpox, polio) and their role in improving public health outcomes. |
+| Microbes, Science, and Vaccines      | https://ourworldindata.org/microbes-battle-science-vaccines                           | Discusses the history of vaccines and how they have been used to fight microbes and prevent diseases. |
+| Our World in Data - Vaccination      | https://ourworldindata.org/vaccination                                                | Provides comprehensive data on vaccination rates and their impact on global health. |
+| Spanish Flu Pandemic                 | https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history          | Details the history and impact of the Spanish Flu pandemic, one of the deadliest influenza outbreaks in history. |
 
 
 # Method and medium
