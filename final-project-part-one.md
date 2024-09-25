@@ -53,8 +53,8 @@ Together, these datasets will help demonstrate how advancements in modern medici
 
 | Name                                | URL                                                    | Description                                                              |
 |-------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------------|
-|  World Bank Life Expectancy Data    | https://data.worldbank.org/indicator/SP.DYN.LE00.IN    | Tracks global life expectancy from 1960 to the present, 
-                                                                                               | showing trends in how medical advancements have increased life expectancy.            
+|  World Bank Life Expectancy Data    | https://data.worldbank.org/indicator/SP.DYN.LE00.IN    | Tracks global life expectancy from 1960 to the present, showing trends in how medical advancements have increased life expectancy
+                                                                                               | .            
 |      |     |             |
 |      |     |             |
 
