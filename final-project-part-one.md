@@ -54,8 +54,8 @@ Together, these datasets will help demonstrate how advancements in modern medici
 | Name                                | URL                                                    | Description                                                              |
 |-------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------------|
 |  World Bank Life Expectancy Data    | https://data.worldbank.org/indicator/SP.DYN.LE00.IN    | Tracks global life expectancy from 1960 to the present, showing trends in how medical advancements have increased life expectancy
-                                                                                               | .            
-|      |     |             |
+                                                                                                         
+| Swiss Re - Medical Advances          | https://www.swissre.com/institute/research/sonar/sonar2023/medical-advances-life-expectancy.html     |iscusses the relationship between medical advances and improvements in life expectancy, providing a timeline of key breakthroughs.             |
 |      |     |             |
 
 # Method and medium
