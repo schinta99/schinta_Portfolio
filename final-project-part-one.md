@@ -19,7 +19,9 @@ Current Challenges: Addressing the issues related to accessibility and affordabi
 Conclusion: Summarizing the long-term benefits and future of modern medicine.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
+>
+ ![Image 1](Image1.jpg)
 
 Text here...
 
