@@ -14,7 +14,7 @@ Medical Breakthroughs: Highlighting major advancements (e.g., vaccines, antibiot
 
 Impact on Life Expectancy: Showing data on life expectancy improvements.
 
-Current Challenges: Addressing the issues related to accessibility and affordability.
+Current Challenges: Addressing the issues related to accessibility, affordability and opinion.
 
 Conclusion: Summarizing the long-term benefits and future of modern medicine.
 
