@@ -34,6 +34,48 @@ Conclusion:
 Summarizing the long-term benefits of modern medicine.
 Advocating for trust in new medical inventions and procedures for a healthier future.
 
+Project Structure:
+
+Setup: Understanding Modern Medicine’s Role
+
+In this phase, I will define modern medicine and establish its significance, setting the foundation for the rest of the project.
+
+Defining Modern Medicine: Provide a clear explanation of modern medicine and its advancements, including examples such as vaccines, antibiotics, and surgical innovations.
+Data Visualizations: Introduce visualizations to show the global improvements in life expectancy due to medical advancements. This will include comparisons of life expectancy trends across different time periods and regions, highlighting how medical interventions have improved human health.
+
+Sketch Ideas:
+
+Line Chart: A visualization showing the increase in life expectancy globally since the advent of modern medicine, especially highlighting pivotal moments like the discovery of vaccines or antibiotics.
+
+Conflict: Addressing Skepticism and Challenges
+
+Here, I will present the core conflict: the skepticism of some individuals about modern medicine and its efficacy, especially in comparison to natural remedies. This section will focus on data-backed evidence that challenges these beliefs.
+
+Unveiling the Impact of Medical Breakthroughs: Visualizations will illustrate how life expectancy has dramatically increased over time, particularly in regions where vaccines, antibiotics, and surgeries have become commonplace.
+
+Comparing Medical and Natural Approaches: Show data that contrasts life expectancy and recovery rates between those who rely solely on natural remedies versus those who use modern medical treatments.
+
+Additionally, this section will address other current challenges in modern medicine, such as accessibility, affordability, and public skepticism about vaccines and medical technologies.
+
+Sketch Ideas:
+
+Comparative Bar Chart: A side-by-side comparison of the impact of modern medicine (e.g., vaccination rates vs. disease eradication) and natural remedies on health outcomes.
+Time-Scale Visualizations: Daily, monthly, and yearly time savings in treatment and recovery due to modern medicine, contrasted with natural treatments.
+Resolution: Advocating for Mindful Medical Choices
+In this final phase, I will propose practical strategies and a call to action for trusting modern medical interventions and making informed health decisions.
+
+Emphasizing Long-Term Benefits: Summarize the long-term health and life expectancy improvements enabled by modern medicine, supported by data visualizations showing decreases in mortality rates and increases in lifespan.
+Suggesting Behavioral Changes: Encourage people to trust modern medicine when appropriate, educating the audience on the balance between natural remedies for minor ailments and modern treatments for more serious conditions.
+Call to Action: Urge the audience to reflect on the benefits of modern medicine and advocate for the use of new medical technologies for a healthier and longer life.
+Sketch Ideas:
+
+Pie Chart: Visualizing a balanced approach to healthcare, showing a breakdown of when to use modern medicine versus natural remedies.
+Journey Map: Illustrating the medical journey from the past to the present, showing how medical interventions can drastically improve survival rates and quality of life.
+Initial Sketches
+
+
+
+
 Initial Sketches
 
 The data visualizations will help tell the story of modern medicine's impact on life expectancy. Initial ideas for visualizations include:
@@ -48,7 +90,7 @@ Journey Map: Highlighting the stark contrast between medical care in the 17th ce
 
 Text here...
 
-
+https://www.forbes.com/sites/joshuacohen/2024/07/09/modern-versus-natural-medicine-is-a-false-dichotomy/
 
 
 The visualizations aim to show impact of modern medicine on human health by comparing key metrics like death rates and life expectancy over time, as well as contrasting the medical journey of individuals from the 17th century to the present day. A line chart will show the reduction in death rates over the years due to advancements in treatments and vaccines, while another visualization will link major medical breakthroughs to increases in life expectancy. A journey map will highlight the contrast between how illnesses were diagnosed and treated in the past compared to the comprehensive and effective medical care available today and showcasing survival outcomes.
