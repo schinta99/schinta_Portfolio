@@ -8,12 +8,16 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+Old People
+
+
 
 Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+- Interview a 24 year old
+- Interview a 60 year old
+- Interview a person from a demographic area where there is limited access to medicine.
 
 Text here!
 
