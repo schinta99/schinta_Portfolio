@@ -10,7 +10,7 @@ The project will follow a clear story arc, illustrating the progression of moder
 
 Introduction: Defining modern medicine and its significance with examples.
 
-Medical Breakthroughs: Highlighting major advancements (e.g., vaccines, antibiotics).
+Medical Breakthroughs: Highlighting major advancements (e.g., vaccines, antibiotics, vitamins).
 
 Impact on Life Expectancy: Showing data on life expectancy improvements.
 
