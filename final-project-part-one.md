@@ -2,30 +2,40 @@
 
 
 
-# Outline
-I want to show the effects of modern medicine and its advantages. How life expectancy has increased with the use of medicine and how advancements in this field are critical to improve quality of life. While natural remedies are often useful for smaller diseases, for age-related issues and other serious conditions, medicines and vaccines are key.
+Outline
+The project will explore the profound effects of modern medicine on human health, focusing on its role in increasing life expectancy and improving the quality of life. While natural remedies may be effective for minor ailments, modern medicine, especially in the form of surgeries, vaccines, and treatments for age-related diseases, has been key in combating serious illnesses. My goal is to educate and communicate how modern medicine can change lives, emphasizing trust in surgical procedures and medical technologies to increase life expectancy.
+
+The target audience includes conservative or older individuals who may believe in the sufficiency of natural remedies and might be skeptical of modern medical interventions. This project aims to educate them on the critical role of modern medicine in improving health outcomes.
 
 Project Structure
-The project will follow a clear story arc, illustrating the progression of modern medicine's role in increasing life expectancy and enhancing the quality of life. The key sections include:
+The project will follow a clear story arc that emphasizes the progression of modern medicine's role in increasing life expectancy. The key sections include:
 
-Introduction: Defining modern medicine and its significance with examples.
+Introduction:
+Defining modern medicine and its significance with examples.
+Highlighting the importance of surgical procedures and trusting technology.
+Medical Breakthroughs:
+Showcasing major advancements in the field of medicine (e.g., vaccines, antibiotics, vitamins, surgical technology).
+Impact on Life Expectancy:
+Presenting data on how life expectancy has dramatically improved due to these advancements.
+Current Challenges:
+Addressing concerns around accessibility, affordability, and public opinion about modern medicine, including skepticism toward vaccines and surgeries.
+Conclusion:
+Summarizing the long-term benefits of modern medicine.
+Advocating for trust in new medical inventions and procedures for a healthier future.
+Initial Sketches
+The data visualizations will help tell the story of modern medicine's impact on life expectancy. Initial ideas for visualizations include:
 
-Medical Breakthroughs: Highlighting major advancements (e.g., vaccines, antibiotics, vitamins).
-
-Impact on Life Expectancy: Showing data on life expectancy improvements.
-
-Current Challenges: Addressing the issues related to accessibility, affordability and opinion.
-
-Conclusion: Summarizing the long-term benefits and future of modern medicine.
-
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
+Line Chart: Illustrating the trend in life expectancy improvements over time due to medical advancements, vaccines, and antibiotics.
+Comparative Timeline: A historical journey map showing key medical breakthroughs (e.g., vaccines, antibiotics) and their correlation to major increases in life expectancy.
+Journey Map: Highlighting the stark contrast between medical care in the 17th century and today, focusing on how treatment and survival outcomes have improved.
 >
  ![Image 1](Image1.jpg)
  ![Image 2](Image2.jpg)
  ![Image 3](Image3.jpg)
 
 Text here...
+
+
 
 
 The visualizations aim to show impact of modern medicine on human health by comparing key metrics like death rates and life expectancy over time, as well as contrasting the medical journey of individuals from the 17th century to the present day. A line chart will show the reduction in death rates over the years due to advancements in treatments and vaccines, while another visualization will link major medical breakthroughs to increases in life expectancy. A journey map will highlight the contrast between how illnesses were diagnosed and treated in the past compared to the comprehensive and effective medical care available today and showcasing survival outcomes.
