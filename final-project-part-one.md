@@ -3,26 +3,39 @@
 
 
 Outline
+
 The project will explore the profound effects of modern medicine on human health, focusing on its role in increasing life expectancy and improving the quality of life. While natural remedies may be effective for minor ailments, modern medicine, especially in the form of surgeries, vaccines, and treatments for age-related diseases, has been key in combating serious illnesses. My goal is to educate and communicate how modern medicine can change lives, emphasizing trust in surgical procedures and medical technologies to increase life expectancy.
 
 The target audience includes conservative or older individuals who may believe in the sufficiency of natural remedies and might be skeptical of modern medical interventions. This project aims to educate them on the critical role of modern medicine in improving health outcomes.
 
 Project Structure
+
 The project will follow a clear story arc that emphasizes the progression of modern medicine's role in increasing life expectancy. The key sections include:
 
 Introduction:
+
 Defining modern medicine and its significance with examples.
 Highlighting the importance of surgical procedures and trusting technology.
+
 Medical Breakthroughs:
+
 Showcasing major advancements in the field of medicine (e.g., vaccines, antibiotics, vitamins, surgical technology).
+
 Impact on Life Expectancy:
+
 Presenting data on how life expectancy has dramatically improved due to these advancements.
+
 Current Challenges:
+
 Addressing concerns around accessibility, affordability, and public opinion about modern medicine, including skepticism toward vaccines and surgeries.
+
 Conclusion:
+
 Summarizing the long-term benefits of modern medicine.
 Advocating for trust in new medical inventions and procedures for a healthier future.
+
 Initial Sketches
+
 The data visualizations will help tell the story of modern medicine's impact on life expectancy. Initial ideas for visualizations include:
 
 Line Chart: Illustrating the trend in life expectancy improvements over time due to medical advancements, vaccines, and antibiotics.
