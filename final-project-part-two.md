@@ -41,7 +41,9 @@ Text here!
 # User research 
 
 ## Target audience
-Old People
+Students,
+Policy Makers
+General Public
 
 
 
@@ -53,6 +55,12 @@ Text here!
 - Interview a person from a demographic area where there is limited access to medicine.
 
 Text here!
+
+How familiar are you with HIV and AIDS, and what do you think are the biggest misconceptions people have about them?
+Do you know the difference between them ? 
+Why do you think there is still stigma surrounding HIV/AIDS, and how does it affect people’s lives?
+How do you think education or awareness campaigns could help reduce this stigma?
+Do you think policies can reduce the stigma?
 
 | Goal | Questions to Ask |
 |------|------------------|
