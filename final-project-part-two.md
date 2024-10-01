@@ -2,35 +2,31 @@
 
 # High-Level Summary
 
-Vaccines have been one of the most significant public health interventions in modern history. Their role in eradicating or controlling infectious diseases has dramatically improved global health outcomes. This project aims to showcase the benefits of vaccines by exploring their impact on eradicating diseases and improving longevity. 
-
-Moreover, this project will advocate for the importance of investing in vaccines to combat various diseases beyond the currently covered illnesses. By addressing both the positive impacts and the current challenges, such as misconceptions around vaccine safety, the project will argue for stronger global investments in vaccine accessibility, affordability, and public awareness efforts.
+This project will explore the stigma associated with HIV/AIDS and its impact on public health efforts, prevention, and treatment. By analyzing trends in public perceptions, healthcare access, and the global response to the HIV/AIDS epidemic, the project will highlight how stigma continues to hinder effective interventions. The goal is to shed light on the importance of combating stigma through education, policy changes, and increased accessibility to treatment.
 
 # Project Structure
 
 Setup:
 
-The project will begin by introducing vaccine technology and how vaccines are developed and administered. This section will also outline life expectancy trends over the years, emphasizing the correlation between major vaccine breakthroughs and increased life expectancy. A line chart will illustrate key points in time where vaccine developments significantly impacted global health outcomes.
+Overview of HIV/AIDS: Key facts and figures.
+Progress in treatment and prevention over the years.
+Introduction to the stigma: Historical context and how it emerged.
+Visualization: A timeline of HIV/AIDS discoveries, treatment advancements, and public attitudes over time.
 
-Anticipated Visuals:
 
-Line chart: A timeline showing major vaccine breakthroughs (e.g., polio, smallpox, COVID-19) in relation to rising life expectancy across different regions of the world.
 
 Conflict:
 
-This section will explore the conflict arising from misinformation surrounding vaccines, particularly on social media platforms. In recent years, misinformation has fueled vaccine hesitancy, despite overwhelming scientific evidence of their safety and effectiveness. Additionally, the issue of vaccine accessibility and affordability in various parts of the world will be discussed. A data visualization will present populations that do not trust vaccines, mapped alongside access to vaccines across different socio-economic regions.
+Focus on the stigma and its consequences: social isolation, discrimination, and barriers to healthcare.
+Analysis of the stigma’s effect on prevention efforts, treatment adherence, and mental health among those affected by HIV/AIDS.
+Visualization: A heatmap or bar chart showing regions/countries with high HIV stigma levels and corresponding healthcare access rates.
 
-Anticipated Visuals:
-
-Bar chart/Heat map: Population segments that display vaccine hesitancy or mistrust, categorized by region or demographic group.
-Accessibility and affordability: A visualization comparing vaccine availability and affordability in high-income versus low-income countries.
 Resolution:
-The final section will focus on potential resolutions to the challenges posed by vaccine hesitancy and limited accessibility. The project will advocate for global efforts to increase awareness through scientific education, highlighting the role of vaccines in preventing the spread of infectious diseases. Furthermore, it will emphasize the need for increased investment in making vaccines more accessible and affordable to populations worldwide.
 
-Anticipated Visuals:
+Highlighting solutions: education, campaigns to raise awareness, anti-discrimination policies.
+Global and regional efforts to reduce stigma and improve healthcare access.
+Visualization: Case studies of successful stigma-reduction initiatives and their impact on HIV/AIDS outcomes.
 
-Scatter plot/Map: A global view showing regions with increased vaccine investments and their corresponding public health outcomes.
-Narrative visuals: Highlighting campaigns and organizations that have successfully raised vaccine awareness.
 
 
 # Wireframes / storyboards
