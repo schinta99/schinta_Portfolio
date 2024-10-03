@@ -36,15 +36,15 @@ Text here!
 
 # User research 
 
-## Feedback Session One
+### Feedback Session One
 
 The initial storyboard for the HIV/AIDS stigma project was tested with three participants – M(32), M(22), F(24).
 
-## Purpose of the Study
+### Purpose of the Study
 
 The study aims to explore how stigma surrounding HIV/AIDS continues to hinder public health efforts, focusing on prevention and treatment. By understanding personal experiences, societal perceptions, and the challenges faced in healthcare access, this project hopes to highlight the ongoing effects of stigma on effective interventions.
 
-## Target Audience and Participant Demographics
+### Target Audience and Participant Demographics
 
 Through this study, I aim to reach young adults, healthcare professionals, and policymakers who can influence change. The story is designed to encourage reflection on stigma and its consequences on public health, especially in communities where misinformation and prejudice persist.
 
