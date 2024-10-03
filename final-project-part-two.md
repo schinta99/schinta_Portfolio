@@ -2,7 +2,7 @@
 
 # High-Level Summary
 
-This project will explore the stigma associated with HIV/AIDS and its impact on public health efforts, prevention, and treatment. By analyzing trends in public perceptions, healthcare access, and the global response to the HIV/AIDS epidemic, the project will highlight how stigma continues to hinder effective interventions. The goal is to shed light on the importance of combating stigma through education, policy changes, and increased accessibility to treatment.
+This project will explore the stigma associated with HIV/AIDS and its impact on public health efforts, prevention, and treatment. By analyzing trends in public perceptions,  and the global response to the HIV/AIDS epidemic with treatment, the project will highlight how stigma continues to hinder effective interventions. The goal is to shed light on the importance of combating stigma through education and increased accessibility to treatment.
 
 # Project Structure
 
@@ -10,8 +10,7 @@ Setup:
 
 Overview of HIV/AIDS: Key facts and figures.
 Progress in treatment and prevention over the years.
-Introduction to the stigma: Historical context and how it emerged.
-Visualization: A timeline of HIV/AIDS discoveries, treatment advancements, and public attitudes over time.
+Visualization: Statistics on HIV/AIDS and timeline of HIV prevelance over the years.
 
 
 
@@ -19,13 +18,14 @@ Conflict:
 
 Focus on the stigma and its consequences: social isolation, discrimination, and barriers to healthcare.
 Analysis of the stigma’s effect on prevention efforts, treatment adherence, and mental health among those affected by HIV/AIDS.
-Visualization: A heatmap or bar chart showing regions/countries with high HIV stigma levels and corresponding healthcare access rates.
+Visualization: A heatmap or bar chart showing regions/countries with education about HIV/AIDS and preventative care.
+A bar chart on healthcare access and policy across various regions. 
 
 Resolution:
 
 Highlighting solutions: education, campaigns to raise awareness, anti-discrimination policies.
 Global and regional efforts to reduce stigma and improve healthcare access.
-Visualization: Case studies of successful stigma-reduction initiatives and their impact on HIV/AIDS outcomes.
+Visualization: A heat map on funding for HIV for improved access and education, and heatmap on treatment over the years.
 
 
 
@@ -42,11 +42,11 @@ The initial storyboard for the HIV/AIDS stigma project was tested with three par
 
 ### Purpose of the Study
 
-The study aims to explore how stigma surrounding HIV/AIDS continues to hinder public health efforts, focusing on prevention and treatment. By understanding personal experiences, societal perceptions, and the challenges faced in healthcare access, this project hopes to highlight the ongoing effects of stigma on effective interventions.
+The study aims to explore how stigma surrounding HIV/AIDS continues to hinder public health efforts, focusing on prevention and treatment. By understanding personal experiences, societal perceptions, and treatment this project hopes to highlight the ongoing effects of stigma on effective interventions.
 
 ### Target Audience and Participant Demographics
 
-Through this study, I aim to reach young adults, healthcare professionals, and policymakers who can influence change. The story is designed to encourage reflection on stigma and its consequences on public health, especially in communities where misinformation and prejudice persist.
+Through this study, I aim to reach young adults, healthcare professionals, and policymakers who can influence change. The story is designed to encourage reflection on stigma and its consequences on public health.
 
 For the purpose of this user research, three participants from diverse age groups, gender, and social backgrounds were selected to offer varied perspectives on the issue. These participants were chosen based on their differing levels of awareness and personal connection to the HIV/AIDS epidemic to ensure a broad understanding of the stigma's impact.
 
@@ -59,7 +59,7 @@ After walking the research participants through the storyboard, ask them for a s
 Ask participants about their knowledge and understanding of the stigma surrounding HIV/AIDS and how it influences their views on public health.
 
 **Questions to be answered:**
-- How would you describe your understanding of the stigma surrounding HIV/AIDS?
+- How would you describe your understanding of HIV/AIDS?
 - Have you personally witnessed or experienced stigma related to HIV/AIDS in your community or media?
 - Do you know the difference between HIV and AIDS?
 - Is HIV treatable ?
@@ -82,7 +82,7 @@ End the study by asking open-ended questions, encouraging participants to reflec
 
 ---
 
-### Interview Script: Open-ended Questions (Overall)
+### Interview Script: Overall Questions
 
 After conducting the sectional review, proceed to open-ended questions to gather feedback on the overall features of the story.
 
@@ -114,7 +114,7 @@ Text here!
 | Questions                              | Interview 1 (briefly describe)                | Interview 2 (briefly describe)               | Interview 3 (briefly describe)              |
 |----------------------------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|
 | What do you think about the title?     | "Could include 'stigma' to make the title clearer." | "Title is fine but could be more engaging."  | "The title is strong and fits the content." |
-| Are the section transitions smooth?    | "Transition between global trends and personal stories feels abrupt." | "Sections flow well overall, but transitions could be slower." | "The flow was well done, no issues here."   |
+| Are the section transitions smooth?    | "Transition between statistics and personal stories feels abrupt." | "Sections flow well overall, but transitions could be slower." | "The flow was well done, no issues here."   |
 | How effective is the call to action?   | "Don't be too prescriptive with the final call to action." | "Consider including self-reflective questions at the end." | "Great call to action, but keep it open-ended." |
 | How do you feel about the tone of the story? | "The tone is a little formal, maybe more conversational?" | "Tone is serious but necessary given the topic." | "Tone was just right, balanced and professional." |
 
