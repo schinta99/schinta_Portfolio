@@ -115,8 +115,8 @@ Text here!
 
 | Questions                              | Interview 1 (briefly describe)                | Interview 2 (briefly describe)               | Interview 3 (briefly describe)              |
 |----------------------------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|
-| What do you think about the title?     | "Could include 'stigma' to make the title clearer." | "Title is fine but could be more engaging."  | "The title is strong and fits the content." |
-| Are the section transitions smooth?    | "Transition between statistics and personal stories feels abrupt." | "Sections flow well overall, but transitions could be slower." | "The flow was well done, no issues here."   |
+| What do you think about the title?     | "Could include 'stigma' to make the title clearer, and maybe use a lighter image for the profile section" | "Title is fine but could be more engaging."  | "The title is strong and fits the content." |
+| Are the section transitions smooth?    | "Transition between statistics and remaining slides feels abript. Information on Efficacy rates and why treatment is not used across will be useful." | "Sections flow well overall, but transitions could be slower." | "The flow was well done, no issues here."   |
 | How effective is the call to action?   | "Don't be too prescriptive with the final call to action." | "Consider including self-reflective questions at the end." | "Great call to action, but keep it open-ended." |
 | How do you feel about the tone of the story? | "The tone is a little formal, maybe more conversational?" | "Tone is serious but necessary given the topic." | "Tone was just right, balanced and professional." |
 
