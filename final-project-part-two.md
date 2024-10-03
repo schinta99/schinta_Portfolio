@@ -114,7 +114,6 @@ Text here!
 | Questions                              | Interview 1 (briefly describe)                | Interview 2 (briefly describe)               | Interview 3 (briefly describe)              |
 |----------------------------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|
 | What do you think about the title?     | "Could include 'stigma' to make the title clearer." | "Title is fine but could be more engaging."  | "The title is strong and fits the content." |
-| How do you feel about the visuals?     | "Global healthcare map needs more clarity and labeling." | "World map is great, but highlight stigma-heavy regions." | "Visuals are impactful but a bit large."    |
 | Are the section transitions smooth?    | "Transition between global trends and personal stories feels abrupt." | "Sections flow well overall, but transitions could be slower." | "The flow was well done, no issues here."   |
 | How effective is the call to action?   | "Don't be too prescriptive with the final call to action." | "Consider including self-reflective questions at the end." | "Great call to action, but keep it open-ended." |
 | How do you feel about the tone of the story? | "The tone is a little formal, maybe more conversational?" | "Tone is serious but necessary given the topic." | "Tone was just right, balanced and professional." |
@@ -128,9 +127,8 @@ Next week, I will focus on implementing the following changes to improve the cla
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Title could be clearer and more direct   | Revise the title to better reflect the focus on HIV/AIDS stigma, using simple and direct language. |
-| Section transitions are abrupt in places | Adjust the transitions between sections, especially from global trends to personal stories, to ensure smoother flow. |
-| Visuals need better clarity and context  | Add contextual annotations to key visualizations, especially for the "stigma over time" chart, and reduce visual size. |
-| Global trends visualization too complex  | Simplify the global trends visualization by focusing on key statistics instead of using a world map. |
+| Section transitions are abrupt in places | Adjust the transitions between sections to ensure smoother flow. |
+| Visuals need better clarity and context  | Add contextual annotations to key visualizations and reduce visual size. |
 | Final call to action needs to be open-ended | Modify the final call to action to ask reflective questions rather than prescriptive solutions. |
 | Starter questions could be simplified    | Simplify starter questions to make them more accessible and easier to answer, leading into deeper discussions. |
 
