@@ -61,6 +61,8 @@ Ask participants about their knowledge and understanding of the stigma surroundi
 **Questions to be answered:**
 - How would you describe your understanding of the stigma surrounding HIV/AIDS?
 - Have you personally witnessed or experienced stigma related to HIV/AIDS in your community or media?
+- Do you know the difference between HIV and AIDS?
+- Is HIV treatable ?
 
 #### Section 2: Personal Impact of Stigma
 Objective: Based on discussions around stigma, ask participants if they feel that stigma affects healthcare access and the willingness of individuals to seek treatment.
@@ -69,21 +71,9 @@ Objective: Based on discussions around stigma, ask participants if they feel tha
 - Do you think stigma around HIV/AIDS discourages people from seeking treatment or support?
 - How do you believe the stigma affects the mental health of individuals living with HIV?
 
-#### Section 3: Global Response
-Objective: Based on information on the global response to the HIV/AIDS epidemic, ask participants about their perception of global efforts in combating stigma and improving healthcare.
 
-**Questions to be answered:**
-- What do you think about the global response to the HIV/AIDS epidemic?
-- Do you think more needs to be done to address stigma globally?
 
-#### Section 4: Public Health and Policy
-Objective: Based on discussions around healthcare and policy, ask participants about the role of policy changes in combating stigma and improving access to treatment.
-
-**Questions to be answered:**
-- Do you think policy changes could help reduce stigma and improve healthcare access for people living with HIV/AIDS?
-- What types of policies do you believe would be most effective?
-
-#### Section 5: Personal Reflection
+#### Section 3: Personal Reflection
 End the study by asking open-ended questions, encouraging participants to reflect on the stigma surrounding HIV/AIDS and its impact on their views.
 
 **Questions to be answered:**
