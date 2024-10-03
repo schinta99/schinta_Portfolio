@@ -36,14 +36,20 @@ Text here!
 
 # User research 
 
-## Target audience
-Students,
-Policy Makers
-General Public
+## Feedback Session One
 
+The initial storyboard for the HIV/AIDS stigma project was tested with three participants – M(32), M(22), F(24).
 
+## Purpose of the Study
 
-Text here!
+The study aims to explore how stigma surrounding HIV/AIDS continues to hinder public health efforts, focusing on prevention and treatment. By understanding personal experiences, societal perceptions, and the challenges faced in healthcare access, this project hopes to highlight the ongoing effects of stigma on effective interventions.
+
+## Target Audience and Participant Demographics
+
+Through this study, I aim to reach young adults, healthcare professionals, and policymakers who can influence change. The story is designed to encourage reflection on stigma and its consequences on public health, especially in communities where misinformation and prejudice persist.
+
+For the purpose of this user research, three participants from diverse age groups, gender, and social backgrounds were selected to offer varied perspectives on the issue. These participants were chosen based on their differing levels of awareness and personal connection to the HIV/AIDS epidemic to ensure a broad understanding of the stigma's impact.
+
 
 ## Interview script
 - Interview a 24 year old
