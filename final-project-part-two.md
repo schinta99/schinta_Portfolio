@@ -104,46 +104,46 @@ After conducting the sectional review, proceed to open-ended questions to gather
 6. Any other comments or feedback?
 
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Goal                                     | Questions to Ask                                                                                       |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Feedback on the title                    | What did you think about the title of the story? Any suggestions?                                       |
+| Engagement with content                  | How engaging did you find the content? Were there any parts that stood out or felt lacking?              |
+| Visual and presentation feedback         | What do you think of the visuals and overall presentation? Do they support the message?                 |
+| User-generated questions                 | If you were to ask questions at the end of the story, what would those be?                              |
+| Structure and flow                       | What are your thoughts on how the sections are structured?                                              |
+| General feedback and additional thoughts | Any other comments or feedback?                                                                         |
 
 
 Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+> Detail the findings from your interviews. Do not include PII. Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions                              | Interview 1 (briefly describe)                | Interview 2 (briefly describe)               | Interview 3 (briefly describe)              |
+|----------------------------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|
+| What do you think about the title?     | "Could include 'stigma' to make the title clearer." | "Title is fine but could be more engaging."  | "The title is strong and fits the content." |
+| How do you feel about the visuals?     | "Global healthcare map needs more clarity and labeling." | "World map is great, but highlight stigma-heavy regions." | "Visuals are impactful but a bit large."    |
+| Are the section transitions smooth?    | "Transition between global trends and personal stories feels abrupt." | "Sections flow well overall, but transitions could be slower." | "The flow was well done, no issues here."   |
+| How effective is the call to action?   | "Don't be too prescriptive with the final call to action." | "Consider including self-reflective questions at the end." | "Great call to action, but keep it open-ended." |
+| How do you feel about the tone of the story? | "The tone is a little formal, maybe more conversational?" | "Tone is serious but necessary given the topic." | "Tone was just right, balanced and professional." |
+
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Next week, I will focus on implementing the following changes to improve the clarity, flow, and engagement of the story based on the insights gathered from the user interviews. These changes aim to enhance both the structure and presentation of the content while ensuring the story remains impactful and accessible.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Title could be clearer and more direct   | Revise the title to better reflect the focus on HIV/AIDS stigma, using simple and direct language. |
+| Section transitions are abrupt in places | Adjust the transitions between sections, especially from global trends to personal stories, to ensure smoother flow. |
+| Visuals need better clarity and context  | Add contextual annotations to key visualizations, especially for the "stigma over time" chart, and reduce visual size. |
+| Global trends visualization too complex  | Simplify the global trends visualization by focusing on key statistics instead of using a world map. |
+| Final call to action needs to be open-ended | Modify the final call to action to ask reflective questions rather than prescriptive solutions. |
+| Starter questions could be simplified    | Simplify starter questions to make them more accessible and easier to answer, leading into deeper discussions. |
 
-> ...include any final thoughts you have here. 
+In summary, the changes outlined above will help create a more cohesive and engaging narrative. These modifications are essential to making the story more relatable, understandable, and visually appealing, ensuring that readers can reflect on the stigma surrounding HIV/AIDS in a meaningful way.
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
