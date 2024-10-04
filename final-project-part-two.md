@@ -67,8 +67,12 @@ The subsequent section will address common misconceptions about HIV, which are A
 The next section will focus on treatments for HIV and show the impact of treatment.
 ![Image 1](Antivirol_Treatment.jpg)
 
+I will also talk about lack of funding.
+![Image 1](Funding.jpg)
+
 I'll discuss the impact of treatments and show visualizations on countries that still struggle with underfunding in their fight against HIV. 
 Additionally, I’ll focus on preventative care, with a focus on deaths caused by unsafe sex, particularly in Sub-Saharan Africa.
+
 
 My main call to action will emphasize the importance of increasing awareness, supporting funding efforts, and promoting preventative care to combat the HIV/AIDS epidemic effectively.
 
