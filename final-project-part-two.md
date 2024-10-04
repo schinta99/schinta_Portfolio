@@ -48,24 +48,19 @@ Initial Sketches -
 > Link to ShortHand - https://app.shorthand.com/organisations/JSrgFWI7zn/stories/iB2xs9BZv4
 >
 
-Description of ShortHand presentation
+The first slide will introduce the connection between HIV and AIDS, with the subtitle "Breaking the Stigma." Initially, I considered using images of famous personalities who have lived with HIV, but due to high costs and copyright restrictions, I opted to simply name these celebrities instead.
 
-The first slide will be about HIV leading to aids, with a subtitle as breaking the stigma. 
-I iniitally wanted to use the pictures of famous personalities with HIV, but they were expensive and ran into many copyright issues. So I just named the clebrities in ths slide.
-The next section will be an open-ended question on what the above celebrities have in common, leading to an answer that they all are HIV positive and few of them have died of AIDS.
-In this section, I will begin to talk about HIV and the statistics around it. 
-I will talk about the HIV prevelence over the years with a visualization and if possible add a comparison with other common diseases to show comparison. 
+The following section will pose an open-ended question: "What do these celebrities have in common?" The answer will reveal that they were all HIV-positive, with some having passed away from AIDS.
 
-I will also show the death from AIDS over the years, leading to a question for the next section about what is AIDS ? and How HIV and AIDS are related ? 
+In this section, I will present key statistics on HIV, including its prevalence over the years. I plan to include a visualization showing the rise of HIV cases, and, if possible, draw comparisons to other common diseases to provide context.
 
-In the subsequent section I will talk about the common misconceptions of HIV. Here in this section, I will show a chart on education about HIV around the world.
+Next, I will present data on deaths from AIDS over time, which will transition to a key question for the next section: "What is AIDS, and how is it related to HIV?"
 
-Leading to the next section talking about treatments for HIV. 
+The subsequent section will address common misconceptions about HIV. Here, I’ll show a chart highlighting the level of education and awareness about HIV across different parts of the world.
 
-In this section on treatment I will talk about treatments received and also deaths prevented due to the treatment. 
-I will have a visualization on countries with lack of funds for HIV to battle this disease and also have a visualization on preventative care by talking about death by unsafe sex in sub-saharan African Region. 
+The next section will focus on treatments for HIV. I'll discuss the impact of treatments, including the number of lives saved, and show visualizations on countries that still struggle with underfunding in their fight against HIV. Additionally, I’ll include a visualization on preventative care, with a focus on deaths caused by unsafe sex, particularly in Sub-Saharan Africa.
 
-My Main call of action would be to increase awareness especially about treatment, help in funding and preventative care. 
+My main call to action will emphasize the importance of increasing awareness, supporting funding efforts, and promoting preventative care to combat the HIV/AIDS epidemic effectively.
 
 
 
