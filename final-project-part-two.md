@@ -54,7 +54,7 @@ The following section will pose an open-ended question: "What do these celebriti
 
 In this section, I will present key statistics on HIV, including its prevalence over the years. 
 
- ![Image 1](HIV_per_1000.jpg)
+ ![Image 1](HIV_per_1000_ppl.jpg)
 
 
 
