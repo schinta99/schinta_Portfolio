@@ -49,6 +49,29 @@ Initial Sketches -
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project.
 >
 > Link to ShortHand - https://app.shorthand.com/organisations/JSrgFWI7zn/stories/iB2xs9BZv4
+>
+
+Description of ShortHand presentation
+
+The first slide will be about HIV leading to aids, with a subtitle as breaking the stigma. 
+I iniitally wanted to use the pictures of famous personalities with HIV, but they were expensive and ran into many copyright issues. So I just named the clebrities in ths slide.
+The next section will be an open-ended question on what the above celebrities have in common, leading to an answer that they all are HIV positive and few of them have died of AIDS.
+In this section, I will begin to talk about HIV and the statistics around it. 
+I will talk about the HIV prevelence over the years with a visualization and if possible add a comparison with other common diseases to show comparison. 
+
+I will also show the death from AIDS over the years, leading to a question for the next section about what is AIDS ? and How HIV and AIDS are related ? 
+
+In the subsequent section I will talk about the common misconceptions of HIV. Here in this section, I will show a chart on education about HIV around the world.
+
+Leading to the next section talking about treatments for HIV. 
+
+In this section on treatment I will talk about treatments received and also deaths prevented due to the treatment. 
+I will have a visualization on countries with lack of funds for HIV to battle this disease and also have a visualization on preventative care by talking about death by unsafe sex in sub-saharan African Region. 
+
+My Main call of action would be to increase awareness especially about treatment, help in funding and preventative care. 
+
+
+
 
 Text here!
 
