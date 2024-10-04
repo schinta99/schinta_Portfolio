@@ -60,6 +60,8 @@ In this section, I will present key statistics on HIV, including its prevalence 
 
 
 Next, I will present data on deaths from AIDS, which will transition to common misconceptions.
+![Image 1](HIV_Death_Rate.jpg)
+
 The subsequent section will address common misconceptions about HIV, which are AIDS and HIV are same, there is no treatment to HIV, and HIV is communicable even if you are on medication. 
 
 Here, I’ll show a chart highlighting the level of education and awareness about HIV across different parts of the world.
