@@ -8,9 +8,7 @@ This project will explore the stigma associated with HIV/AIDS and its impact on 
 
 Setup:
 
-Overview of HIV/AIDS: Key facts and figures.
-
-Progress in treatment and prevention over the years.
+Overview of HIV/AIDS: This section introduces the foundational knowledge about HIV/AIDS, outlining the key facts and figures. It presents the global impact of the epidemic, focusing on the number of people affected, the regions most impacted, and the strides made in research, treatment, and prevention over the years. The goal is to give the audience a clear picture of the current state of the HIV/AIDS crisis, how far we've come, and the challenges that still remain.
 
 Visualization: Statistics on HIV/AIDS and timeline of HIV prevelance over the years.
 
@@ -23,9 +21,7 @@ Initial Sketches -
 
 Conflict:
 
-Focus on the stigma and its consequences: social isolation, discrimination, and barriers to healthcare.
-
-Analysis of the stigma’s effect on prevention efforts, treatment adherence, and mental health among those affected by HIV/AIDS.
+Focus on Stigma and Its Consequences: This section delves into the harmful effects of the stigma surrounding HIV/AIDS. Despite medical advancements, stigma remains a significant barrier. It manifests as social isolation, discrimination, and fear, both for those living with HIV/AIDS and for those seeking prevention and testing services. The section discusses how this stigma perpetuates misinformation, fuels fear, and leads to discrimination in both social settings and healthcare environments. The ripple effects of stigma create barriers to accessing healthcare, making people less likely to seek treatment or get tested.
 
 Visualization: A heatmap or bar chart showing regions/countries with education about HIV/AIDS and line chart on preventative care in sub-saharan african region.
 
@@ -35,8 +31,8 @@ Initial Sketches -
 
 Resolution:
 
-Highlighting solutions: education, campaigns to raise awareness, anti-discrimination policies.
-Global and regional efforts to reduce stigma and improve healthcare access.
+Highlighting Solutions: This section will shift the focus to the solutions being implemented to combat HIV/AIDS stigma. It emphasizes education as the most effective tool for reducing fear and misinformation about the disease. Public awareness campaigns that promote inclusivity and understanding can challenge the stereotypes and fear associated with HIV. Anti-discrimination policies in healthcare settings and workplaces are also crucial to breaking down barriers that prevent people from seeking care.
+
 Visualization: A heat map on funding for HIV , and line chart on treatment over the years.
 
 Initial Sketches -
