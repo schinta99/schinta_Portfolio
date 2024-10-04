@@ -9,7 +9,9 @@ This project will explore the stigma associated with HIV/AIDS and its impact on 
 Setup:
 
 Overview of HIV/AIDS: Key facts and figures.
+
 Progress in treatment and prevention over the years.
+
 Visualization: Statistics on HIV/AIDS and timeline of HIV prevelance over the years.
 
 Initial Sketches - 
