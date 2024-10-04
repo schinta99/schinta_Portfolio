@@ -14,7 +14,7 @@ Visualization: Statistics on HIV/AIDS and timeline of HIV prevelance over the ye
 
 Initial Sketches - 
 
- ![Image 1](IMG_2179.jpg)
+ ![Image 1](SetUp_IMG1.jpg)
  ![Image 2](IMG_2180.jpg)
 
 
