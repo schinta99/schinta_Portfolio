@@ -66,7 +66,7 @@ The subsequent section will address common misconceptions about HIV, which are A
 
 Here, I’ll show a chart highlighting the level of education and awareness about HIV across different parts of the world.
 
-The next section will focus on treatments for HIV. I'll discuss the impact of treatments, including the number of lives saved, and show visualizations on countries that still struggle with underfunding in their fight against HIV. Additionally, I’ll include a visualization on preventative care, with a focus on deaths caused by unsafe sex, particularly in Sub-Saharan Africa.
+The next section will focus on treatments for HIV and show the impact of treatment. I'll discuss the impact of treatments, including the number of lives saved, and show visualizations on countries that still struggle with underfunding in their fight against HIV. Additionally, I’ll include a visualization on preventative care, with a focus on deaths caused by unsafe sex, particularly in Sub-Saharan Africa.
 
 My main call to action will emphasize the importance of increasing awareness, supporting funding efforts, and promoting preventative care to combat the HIV/AIDS epidemic effectively.
 
