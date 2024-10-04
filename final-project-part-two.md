@@ -8,7 +8,7 @@ This project will explore the stigma associated with HIV/AIDS and its impact on 
 
 Setup:
 
-Overview of HIV/AIDS: This section introduces the foundational knowledge about HIV/AIDS, outlining the key facts and figures. It presents the global impact of the epidemic, focusing on the number of people affected, the regions most impacted, and the strides made in research, treatment, and prevention over the years. The goal is to give the audience a clear picture of the current state of the HIV/AIDS crisis, how far we've come, and the challenges that still remain.
+Overview of HIV/AIDS: This section introduces the foundational knowledge about HIV/AIDS, outlining the key facts and figures. It presents the global impact of the epidemic, focusing on the number of people affected, the regions most impacted, and the strides made in research, treatment, and prevention over the years. The goal is to give the audience a clear picture of the current state of the HIV/AIDS crisis, how far we've come, and the challenges that still remain. (These visualizations are yet to be created, unsure about the need).
 
 Visualization: Statistics on HIV/AIDS and timeline of HIV prevelance over the years.
 
@@ -156,10 +156,11 @@ Text here!
 
 | Questions                              | Interview 1 (briefly describe)                | Interview 2 (briefly describe)               | Interview 3 (briefly describe)              |
 |----------------------------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|
-| What do you think about the title?     | "Could include 'stigma' to make the title clearer, and maybe use a lighter image for the profile section" | "Title is fine but could be more engaging."  | "The title is strong and fits the content." |
-| Are the section transitions smooth?    | "Transition between statistics and remaining slides feels abript. Information on Efficacy rates and why treatment is not used across will be useful." | "Sections flow well overall, but transitions could be slower." | "The flow was well done, no issues here."   |
+| What do you think about the title?     | "Could include 'stigma' to make the title clearer, and maybe use a lighter image for the profile section." | "Title is fine but could be more engaging."  | "The title is strong and fits the content." |
+| Are the section transitions smooth?    | "Transition between statistics and remaining slides feels abrupt. Information on efficacy rates and why treatment is not used across will be useful." | "Sections flow well overall, but transitions could be slower." | "The flow was well done, no issues here."   |
 | How effective is the call to action?   | "Don't be too prescriptive with the final call to action." | "Consider including self-reflective questions at the end." | "Great call to action, but keep it open-ended." |
 | How do you feel about the tone of the story? | "The tone is a little formal, maybe more conversational?" | "Tone is serious but necessary given the topic." | "Tone was just right, balanced and professional." |
+| What do you think about the visualizations? | "There are too many visuals expected. It might be better to focus on a few key ones or combine some for better clarity." | "Some of the visuals are overwhelming. Maybe simplify or consolidate them into fewer charts." | "A good mix of visuals, but reducing the number of charts could enhance focus." |
 
 
 
@@ -172,8 +173,10 @@ Next week, I will focus on implementing the following changes to improve the cla
 | Title could be clearer and more direct   | Revise the title to better reflect the focus on HIV/AIDS stigma, using simple and direct language. |
 | Section transitions are abrupt in places | Adjust the transitions between sections to ensure smoother flow. |
 | Visuals need better clarity and context  | Add contextual annotations to key visualizations and reduce visual size. |
+| Too many visualizations may overwhelm viewers | Focus on key visuals by reducing the number of charts, and combine some visuals for better clarity and impact. |
 | Final call to action needs to be open-ended | Modify the final call to action to ask reflective questions rather than prescriptive solutions. |
 | Starter questions could be simplified    | Simplify starter questions to make them more accessible and easier to answer, leading into deeper discussions. |
+
 
 In summary, the changes outlined above will help create a more cohesive and engaging narrative. These modifications are essential to making the story more relatable, understandable, and visually appealing, ensuring that readers can reflect on the stigma surrounding HIV/AIDS in a meaningful way.
 
