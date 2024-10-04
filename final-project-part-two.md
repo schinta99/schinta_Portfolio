@@ -41,7 +41,7 @@ Visualization: A heat map on funding for HIV , and line chart on treatment over 
 
 Initial Sketches -
 
-
+ ![Image 1](Resolution_1.jpg)
 
 
 
