@@ -21,7 +21,7 @@ Initial Sketches -
 
 Conflict:
 
-Focus on Stigma and Its Consequences: This section delves into the harmful effects of the stigma surrounding HIV/AIDS. Despite medical advancements, stigma remains a significant barrier. It manifests as social isolation, discrimination, and fear, both for those living with HIV/AIDS and for those seeking prevention and testing services. The section discusses how this stigma perpetuates misinformation, fuels fear, and leads to discrimination in both social settings and healthcare environments. The ripple effects of stigma create barriers to accessing healthcare, making people less likely to seek treatment or get tested.
+Focus on Stigma and Its Consequences: This section delves into the harmful effects of the stigma surrounding HIV/AIDS. Despite medical advancements, stigma remains a significant barrier. It manifests as social isolation, discrimination, and fear, both for those living with HIV/AIDS and for those seeking prevention and testing services. The section discusses common misconceptions. 
 
 Visualization: A heatmap or bar chart showing regions/countries with education about HIV/AIDS and line chart on preventative care in sub-saharan african region.
 
@@ -31,7 +31,8 @@ Initial Sketches -
 
 Resolution:
 
-Highlighting Solutions: This section will shift the focus to the solutions being implemented to combat HIV/AIDS stigma. It emphasizes education as the most effective tool for reducing fear and misinformation about the disease. Public awareness campaigns that promote inclusivity and understanding can challenge the stereotypes and fear associated with HIV. Anti-discrimination policies in healthcare settings and workplaces are also crucial to breaking down barriers that prevent people from seeking care.
+Highlighting Solutions: This section will shift the focus to the solutions being implemented to combat HIV/AIDS stigma. Education is the most effective tool for reducing fear and misinformation about the disease. Public awareness campaigns that promote inclusivity and understanding can challenge the stereotypes and fear associated with HIV. 
+Focuses on funding in various countries, how treatment averted the death rate and mainly talk about preventative care. 
 
 Visualization: A heat map on funding for HIV , and line chart on treatment over the years.
 
