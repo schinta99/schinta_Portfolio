@@ -23,7 +23,7 @@ Conflict:
 
 Focus on Stigma and Its Consequences: This section delves into the harmful effects of the stigma surrounding HIV/AIDS. Despite medical advancements, stigma remains a significant barrier. It manifests as social isolation, discrimination, and fear, both for those living with HIV/AIDS and for those seeking prevention and testing services. The section discusses common misconceptions. 
 
-Visualization: A heatmap or bar chart showing regions/countries with education about HIV/AIDS and line chart on preventative care in sub-saharan african region.
+Visualization: Line chart on deaths due to unsafe-sex and no preventative care in sub-saharan african region.
 
 Initial Sketches - 
 
@@ -34,9 +34,9 @@ Resolution:
 Highlighting Solutions: This section will shift the focus to the solutions being implemented to combat HIV/AIDS stigma. Education is the most effective tool for reducing fear and misinformation about the disease. Public awareness campaigns that promote inclusivity and understanding can challenge the stereotypes and fear associated with HIV. 
 Focuses on funding in various countries, how treatment averted the death rate and mainly talk about preventative care. 
 
-Visualization: A heat map on funding for HIV , and line chart on treatment over the years.
+Visualization: Line chart on treatment over the years.
 
-Initial Sketches -
+Initial Sketches - 
 
  ![Image 1](Resolution_1.jpg)
 
@@ -79,7 +79,7 @@ My main call to action will emphasize the importance of increasing awareness, su
 
 
 
-Text here!
+(Note : I could not use all the initial sketched i proposed as I ran into issues with collecting data. I decided to review my shorthand with people before I added more data visuals as I wanted to know if it would be good to have so many visuals or not) 
 
 # User research 
 
