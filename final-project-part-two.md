@@ -24,7 +24,9 @@ Initial Sketches -
 Conflict:
 
 Focus on the stigma and its consequences: social isolation, discrimination, and barriers to healthcare.
+
 Analysis of the stigma’s effect on prevention efforts, treatment adherence, and mental health among those affected by HIV/AIDS.
+
 Visualization: A heatmap or bar chart showing regions/countries with education about HIV/AIDS and line chart on preventative care in sub-saharan african region.
 
 Initial Sketches - 
