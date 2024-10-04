@@ -65,6 +65,8 @@ Next, I will present data on deaths from AIDS, which will transition to common m
 The subsequent section will address common misconceptions about HIV, which are AIDS and HIV are same, there is no treatment to HIV, and HIV is communicable even if you are on medication. 
 
 The next section will focus on treatments for HIV and show the impact of treatment.
+![Image 1](Antivirol_Treatment.jpg)
+
 I'll discuss the impact of treatments and show visualizations on countries that still struggle with underfunding in their fight against HIV. 
 Additionally, I’ll focus on preventative care, with a focus on deaths caused by unsafe sex, particularly in Sub-Saharan Africa.
 
