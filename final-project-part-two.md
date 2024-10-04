@@ -52,7 +52,12 @@ The first slide will introduce the connection between HIV and AIDS, with the sub
 
 The following section will pose an open-ended question: "What do these celebrities have in common?" The answer will reveal that they were all HIV-positive, with some having passed away from AIDS.
 
-In this section, I will present key statistics on HIV, including its prevalence over the years. I plan to include a visualization showing the rise of HIV cases, and, if possible, draw comparisons to other common diseases to provide context.
+In this section, I will present key statistics on HIV, including its prevalence over the years. 
+
+ ![Image 1](HIV_per_1000.jpg)
+
+
+
 
 Next, I will present data on deaths from AIDS over time, which will transition to a key question for the next section: "What is AIDS, and how is it related to HIV?"
 
