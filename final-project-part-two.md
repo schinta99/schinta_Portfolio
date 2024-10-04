@@ -31,6 +31,7 @@ Visualization: A heatmap or bar chart showing regions/countries with education a
 
 Initial Sketches - 
 
+ ![Image 1](Conflict_1.jpg)
 
 Resolution:
 
