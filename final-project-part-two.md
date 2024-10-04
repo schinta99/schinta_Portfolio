@@ -59,9 +59,10 @@ In this section, I will present key statistics on HIV, including its prevalence 
 
 
 
-Next, I will present data on deaths from AIDS over time, which will transition to a key question for the next section: "What is AIDS, and how is it related to HIV?"
+Next, I will present data on deaths from AIDS, which will transition to common misconceptions.
+The subsequent section will address common misconceptions about HIV, which are AIDS and HIV are same, there is no treatment to HIV, and HIV is communicable even if you are on medication. 
 
-The subsequent section will address common misconceptions about HIV. Here, I’ll show a chart highlighting the level of education and awareness about HIV across different parts of the world.
+Here, I’ll show a chart highlighting the level of education and awareness about HIV across different parts of the world.
 
 The next section will focus on treatments for HIV. I'll discuss the impact of treatments, including the number of lives saved, and show visualizations on countries that still struggle with underfunding in their fight against HIV. Additionally, I’ll include a visualization on preventative care, with a focus on deaths caused by unsafe sex, particularly in Sub-Saharan Africa.
 
