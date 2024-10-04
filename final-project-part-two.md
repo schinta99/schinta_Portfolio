@@ -12,20 +12,28 @@ Overview of HIV/AIDS: Key facts and figures.
 Progress in treatment and prevention over the years.
 Visualization: Statistics on HIV/AIDS and timeline of HIV prevelance over the years.
 
+Initial Sketches - 
+
 
 
 Conflict:
 
 Focus on the stigma and its consequences: social isolation, discrimination, and barriers to healthcare.
 Analysis of the stigma’s effect on prevention efforts, treatment adherence, and mental health among those affected by HIV/AIDS.
-Visualization: A heatmap or bar chart showing regions/countries with education about HIV/AIDS and preventative care.
-A bar chart on healthcare access and policy across various regions. 
+Visualization: A heatmap or bar chart showing regions/countries with education about HIV/AIDS and line chart on preventative care in sub-saharan african region.
+
+Initial Sketches - 
+
 
 Resolution:
 
 Highlighting solutions: education, campaigns to raise awareness, anti-discrimination policies.
 Global and regional efforts to reduce stigma and improve healthcare access.
-Visualization: A heat map on funding for HIV for improved access and education, and heatmap on treatment over the years.
+Visualization: A heat map on funding for HIV , and line chart on treatment over the years.
+
+Initial Sketches -
+
+
 
 
 
