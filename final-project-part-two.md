@@ -160,7 +160,7 @@ Text here!
 | Are the section transitions smooth?    | "Transition between statistics and remaining slides feels abrupt. Information on efficacy rates and why treatment is not used across will be useful." | "Sections flow well overall, but transitions could be slower." | "The flow was well done, no issues here."   |
 | How effective is the call to action?   | "Don't be too prescriptive with the final call to action." | "Consider including self-reflective questions at the end." | "Great call to action, but keep it open-ended." |
 | How do you feel about the tone of the story? | "The tone is a little formal, maybe more conversational?" | "Tone is serious but necessary given the topic." | "Tone was just right, balanced and professional." |
-| What do you think about the visualizations? | "There are too many visuals expected. It might be better to focus on a few key ones or combine some for better clarity." | "Some of the visuals are overwhelming. Maybe simplify or consolidate them into fewer charts." | "A good mix of visuals, but reducing the number of charts could enhance focus." |
+| What do you think about the visualizations? | "There are too many visuals expected. It might be better to focus on a few key ones or combine some for better clarity." | "Some of the visuals are overwhelming. Maybe simplify or consolidate them into fewer charts with better labels." | "A good mix of visuals, but reducing the number of charts could enhance focus." |
 
 
 
