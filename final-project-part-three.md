@@ -30,11 +30,17 @@ These design changes helped make the story more accessible and ensured the visua
 
 
 HIV.gov. (n.d.). What are HIV and AIDS? HIV.gov. Retrieved October 7, 2024, from https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/what-are-hiv-and-aids
+
 UNAIDS. (2023). Fact sheet 2023. UNAIDS. Retrieved October 7, 2024, from https://www.unaids.org/en/resources/fact-sheet
+
 UNAIDS. (2023). Fact sheet 2023 [PDF]. UNAIDS. Retrieved October 7, 2024, from https://www.unaids.org/sites/default/files/media_asset/UNAIDS_FactSheet_en.pdf
+
 UNICEF. (2023). HIV/AIDS statistical tables. UNICEF Data. Retrieved October 7, 2024, from https://data.unicef.org/resources/dataset/hiv-aids-statistical-tables/
+
 European Centre for Disease Prevention and Control (ECDC). (n.d.). HIV stigma survey. ECDC. Retrieved October 7, 2024, from https://www.ecdc.europa.eu/en/publications-data/hiv-stigma-survey
+
 CANFAR. (n.d.). History of HIV/AIDS. CANFAR. Retrieved October 7, 2024, from https://canfar.com/awareness/about-hiv-aids/history-of-hiv-aids/
+
 Ritchie, H., & Roser, M. (n.d.). HIV/AIDS. Our World in Data. Retrieved October 7, 2024, from https://ourworldindata.org/hiv-aids
 
 
