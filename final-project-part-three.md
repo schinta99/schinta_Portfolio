@@ -19,17 +19,18 @@ Text here!
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 >
-> Initially I wanted to talk about modern medicine because of some examples I saw around me, and experiences my family has had. But since the subject went into vaccinations and other divergent topics, I realized the scope was too broad and I need to narrow it further. Picking up a disease and talking about was a good idea as scope was narrow and also would get specific audience opinion.
->
-> As I researched more, I noticed that in asian countries especailly in India, there was less awareness, awareness about treatment and lot of stigma and misconceptions.
-> I narrowed my audience to adults, and what information they knew about HIV aids.
+Initially I wanted to talk about modern medicine because of some examples I saw around me, and experiences my family has had. But since the subject went into vaccinations and other divergent topics, I realized the scope was too broad and I need to narrow it further. Picking up a disease and talking about was a good idea as scope was narrow and also would get specific audience opinion.
+
+As I researched more, I noticed that in asian countries especailly in India, there was less awareness, awareness about treatment and lot of stigma and misconceptions.
+I narrowed my audience to adults, and what information they knew about HIV aids.
 
 Text here!
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story.
->
-> 
+
+Initially had a lot more information about stigma, but the audience was not very comfortable with that level of information. To tone down the presentation I spoke more generally about HIV and its eradication which is still a major problem in many countries.
+Based on feedback I reduced the number of graphs that i had, and to adjust with the storyline, I added new graphs like on prevention using condoms in Eswastini which is the most HIV affected country. I also had a visualization on deaths averted due to medication, an area chart showing the impact of medication. 
 
 Text here!
 
@@ -41,4 +42,9 @@ Text here!
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
+I think I wish I could tell the story better with Stigma, finding data was difficult and also the content could have been risky to talk in the class, but it is a real problem in many conservative countries. I enjoyed working with the data, as there was a plethora of datasets available for HIV. The topic selection took some time, if I had started sooner would have had better visualizations. 
+I was quite confused originally about what story to tell so it was quite interesting how difficult story telling actually is. This was my first time doing user research as well, I was not sure how to proceed, so just showed the users the overview of my slides and asked them their opinions. 
+I often thought I knew my audience but unless you speak to them you will never understand it. 
+
+Overall a good course to understand and learn more about the art of story telling with data. 
 Text here!
