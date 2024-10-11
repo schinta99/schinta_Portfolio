@@ -2,39 +2,39 @@
 
 
 
-Outline
+## Outline
 
 The project will explore the profound effects of modern medicine on human health, focusing on its role in increasing life expectancy and improving the quality of life. While natural remedies may be effective for minor ailments, modern medicine, especially in the form of surgeries, vaccines, and treatments for age-related diseases, has been key in combating serious illnesses. My goal is to educate and communicate how modern medicine can change lives, emphasizing trust in surgical procedures and medical technologies to increase life expectancy.
 
 The target audience includes conservative or older individuals who may believe in the sufficiency of natural remedies and might be skeptical of modern medical interventions. This project aims to educate them on the critical role of modern medicine in improving health outcomes.
 
-Project Structure
+# Project Overview
 
 The project will follow a clear story arc that emphasizes the progression of modern medicine's role in increasing life expectancy. The key sections include:
 
-Introduction:
+1) Introduction:
 
 Defining modern medicine and its significance with examples.
 Highlighting the importance of surgical procedures and trusting technology.
 
-Medical Breakthroughs:
+2) Medical Breakthroughs:
 
 Showcasing major advancements in the field of medicine (e.g., vaccines, antibiotics, vitamins, surgical technology).
 
-Impact on Life Expectancy:
+3) Impact on Life Expectancy:
 
 Presenting data on how life expectancy has dramatically improved due to these advancements.
 
-Current Challenges:
+4) Current Challenges:
 
 Addressing concerns around accessibility, affordability, and public opinion about modern medicine, including skepticism toward vaccines and surgeries.
 
-Conclusion:
+5) Conclusion:
 
 Summarizing the long-term benefits of modern medicine.
 Advocating for trust in new medical inventions and procedures for a healthier future.
 
-Project Structure:
+# Project Structure:
 
 Setup: Understanding Modern Medicine’s Role
 
@@ -57,7 +57,7 @@ Comparing Medical and Natural Approaches: Show data that contrasts life expectan
 
 Additionally, this section will address other current challenges in modern medicine, such as accessibility, affordability, and public skepticism about vaccines and medical technologies.
 
-Sketch Ideas:
+# Sketch Ideas:
 
 Comparative Bar Chart: A side-by-side comparison of the impact of modern medicine (e.g., vaccination rates vs. disease eradication) and natural remedies on health outcomes.
 Time-Scale Visualizations: Daily, monthly, and yearly time savings in treatment and recovery due to modern medicine, contrasted with natural treatments.
@@ -76,19 +76,19 @@ Initial Sketches
 
 
 
-Initial Sketches
+# Initial Sketches
 
 The data visualizations will help tell the story of modern medicine's impact on life expectancy. Initial ideas for visualizations include:
 
 Line Chart: Illustrating the trend in life expectancy improvements over time due to medical advancements, vaccines, and antibiotics.
 Comparative Timeline: A historical journey map showing key medical breakthroughs (e.g., vaccines, antibiotics) and their correlation to major increases in life expectancy.
 Journey Map: Highlighting the stark contrast between medical care in the 17th century and today, focusing on how treatment and survival outcomes have improved.
->
+
  ![Image 1](Image1.jpg)
  ![Image 2](Image2.jpg)
  ![Image 3](Image3.jpg)
 
-Text here...
+
 
 https://www.forbes.com/sites/joshuacohen/2024/07/09/modern-versus-natural-medicine-is-a-false-dichotomy/
 
