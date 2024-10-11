@@ -50,7 +50,7 @@ Ritchie, H., & Roser, M. (n.d.). HIV/AIDS. Our World in Data. Retrieved October 
 # Final thoughts
 
 
-Reflecting on this project, I wish I could have delved deeper into the issue of HIV stigma. However, finding sufficient data on this topic was challenging, and discussing it in class could have been sensitive. Nevertheless, I thoroughly enjoyed working with the HIV datasets, as there was a wealth of data available. In hindsight, starting earlier would have allowed me to create more polished visualizations.
+Reflecting on this project, I wish I could have delved deeper into the issue of HIV stigma. However, finding sufficient data on this topic was challenging, and discussing it in class could have been sensitive. Nevertheless, I thoroughly enjoyed working with the HIV datasets, as there was a lot of data available. In hindsight, starting earlier would have allowed me to create better visualizations.
 
 Initially, I found it difficult to decide on a story to tell, which made me realize how complex storytelling with data can be. This was also my first experience with user research, and I wasn't entirely sure how to proceed, so I presented an overview of my slides and gathered feedback. Through this, I learned that understanding your audience is not as straightforward as it seems—until you engage with them, you won’t fully grasp their needs.
 
@@ -58,5 +58,4 @@ Overall, this course provided an excellent opportunity to learn more about the a
 
 
 
-Overall a good course to understand and learn more about the art of story telling with data. 
 
