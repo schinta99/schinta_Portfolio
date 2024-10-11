@@ -2,13 +2,13 @@
 
 
 
-## Outline
+# Outline
 
 The project will explore the profound effects of modern medicine on human health, focusing on its role in increasing life expectancy and improving the quality of life. While natural remedies may be effective for minor ailments, modern medicine, especially in the form of surgeries, vaccines, and treatments for age-related diseases, has been key in combating serious illnesses. My goal is to educate and communicate how modern medicine can change lives, emphasizing trust in surgical procedures and medical technologies to increase life expectancy.
 
 The target audience includes conservative or older individuals who may believe in the sufficiency of natural remedies and might be skeptical of modern medical interventions. This project aims to educate them on the critical role of modern medicine in improving health outcomes.
 
-# Project Overview
+## Project Overview
 
 The project will follow a clear story arc that emphasizes the progression of modern medicine's role in increasing life expectancy. The key sections include:
 
@@ -34,9 +34,9 @@ Addressing concerns around accessibility, affordability, and public opinion abou
 Summarizing the long-term benefits of modern medicine.
 Advocating for trust in new medical inventions and procedures for a healthier future.
 
-# Project Structure:
+## Project Structure:
 
-Setup: Understanding Modern Medicine’s Role
+### Setup: Understanding Modern Medicine’s Role
 
 In this phase, I will define modern medicine and establish its significance, setting the foundation for the rest of the project.
 
@@ -47,7 +47,7 @@ Sketch Ideas:
 
 Line Chart: A visualization showing the increase in life expectancy globally since the advent of modern medicine, especially highlighting pivotal moments like the discovery of vaccines or antibiotics.
 
-Conflict: Addressing Skepticism and Challenges
+### Conflict: Addressing Skepticism and Challenges
 
 Here, I will present the core conflict: the skepticism of some individuals about modern medicine and its efficacy, especially in comparison to natural remedies. This section will focus on data-backed evidence that challenges these beliefs.
 
@@ -57,13 +57,13 @@ Comparing Medical and Natural Approaches: Show data that contrasts life expectan
 
 Additionally, this section will address other current challenges in modern medicine, such as accessibility, affordability, and public skepticism about vaccines and medical technologies.
 
-# Sketch Ideas:
+Sketch Ideas:
 
 Comparative Bar Chart: A side-by-side comparison of the impact of modern medicine (e.g., vaccination rates vs. disease eradication) and natural remedies on health outcomes.
 
 Time-Scale Visualizations: Daily, monthly, and yearly time savings in treatment and recovery due to modern medicine, contrasted with natural treatments.
 
-Resolution: Advocating for Mindful Medical Choices
+### Resolution: Advocating for Mindful Medical Choices
 
 In this final phase, I will propose practical strategies and a call to action for trusting modern medical interventions and making informed health decisions.
 
