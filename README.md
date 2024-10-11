@@ -12,17 +12,33 @@ Hi! I am Shreya and I love data vizualisations. I am a graduate student studying
 3. Understand how to make good charts based on any kind of data.
 
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
- 
+## Assignment 1: [Visualizing Government Debt](visualizing-government-debt.md)
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+This assignment focused on visualizing government debt across various countries. Tableau was used to create multiple visualizations based on the provided data, with an emphasis on presenting insights effectively. The assignment provided valuable understanding of the use of colors, chart types, and storytelling techniques to convey data more clearly.
+
+You can view my assignment [here](visualizing-government-debt.md)
+
+
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
+
+This project involved exploring datasets and visualizations from MakeoverMonday. The objective was to select a visualization, analyze it, and apply critique methods such as Stephen Few's Data Visualization Effectiveness Profile and principles from Good Charts. Following the critique, a new visualization was created to address the identified concerns.
+
+You can view the assignment [here](critique-by-design.md)
+
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+
+The final project aimed to incorporate all learnings from Good Charts, classroom presentations, and critiques to create effective visualizations that tell a compelling and persuasive data-driven story. This project focused on the narrative of modern medicine and the eradication of diseases, with a specific emphasis on HIV eradication. Each section, from Part 1 to Part 3, illustrated the progress of scientific advancements, culminating in a detailed focus on HIV/AIDS in Part 3. Shorthand, journey maps, and storytelling techniques were utilized for the final assignment and presentation.
+
+
+[Part I](final-project-part-one.md)
+
+[Part II](final-project-part-two.md)
+
+[Part III](final-project-part-three.md)
+
+
+
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
